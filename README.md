@@ -3,7 +3,7 @@
 Code for [Fast KV Compaction via Attention Matching](https://arxiv.org/abs/2602.16284). Attention Matching (AM) compacts a KV cache in latent space by constructing a smaller set of keys and values that reproduce the original attention behavior.
 
 <p align="center">
-  <img src="attention-matching.png" alt="Attention Matching" width="600">
+  <img src="https://github.com/user-attachments/assets/ad98f32b-dfc6-43d1-84c4-698507b68a2b" alt="Attention Matching" width="600">
 </p>
 
 ## Repository Layout
