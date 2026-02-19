@@ -1,0 +1,6 @@
+# Python 3.12
+torch==2.8.0
+transformers==4.57.1
+vllm==0.11.0
+accelerate==1.12.0
+datasets==4.4.1

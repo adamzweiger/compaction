@@ -1,0 +1,12 @@
+- Expose a better API for compaction. After lots of playing around with different things (nonuniform cache, sliding window, mid-trajectory multi-turn compaction), the code has gotten a bit messy. There is likely a much better API that can be exposed in `compaction/`.
+- Integrate compaction with vLLM/SGLang. Currently, these inference engines don't support initializing a sequence with a latent KV cache.
+- Speed up on-policy self-study by making it truly layer-wise. Currently we recompute prefill for layer 0 through L. We could instead save activations from previous layer and only compute prefill for layer L.
+- Integrate AdaKV / varlen to get the actual gains from nonuniform compaction. Currently, we just pad to the longest head's length in the layer. FlexAttention didn't seem to help, though I might not have implemented it / compiled it in the best way.
+- Add Cartridges as a compaction method for easier comparison / for combining the methods (?). Cartridges experiments were run in a separate repo.
+- Better mid-trajectory compaction (after doing point 1).
+- Simplify codebase's handling of chat templates / prefixes and suffixes. Keeping chat template uncompacted was not necessary for our method. This may simplify chunked compaction a bit. The current path of chunked compaction with nonuniform budgets, sliding window layers, prefix/suffix handling, and on-policy queries is a bit of a headache.
+- Log KL (slightly nicer than perplexity)
+- Try larger models / distributed setups
+- Add RULER / longcodebench / something else
+- Add tests
+- Ablations on longhealth instead of quality

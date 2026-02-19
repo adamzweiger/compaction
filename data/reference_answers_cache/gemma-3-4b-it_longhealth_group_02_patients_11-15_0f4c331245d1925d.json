@@ -1,0 +1,510 @@
+{
+  "model_name": "google/gemma-3-4b-it",
+  "article_id": "longhealth_group_02_patients_11-15",
+  "question_ids": [
+    "patient_11_q0",
+    "patient_11_q1",
+    "patient_11_q2",
+    "patient_11_q3",
+    "patient_11_q4",
+    "patient_11_q5",
+    "patient_11_q6",
+    "patient_11_q7",
+    "patient_11_q8",
+    "patient_11_q9",
+    "patient_11_q10",
+    "patient_11_q11",
+    "patient_11_q12",
+    "patient_11_q13",
+    "patient_11_q14",
+    "patient_11_q15",
+    "patient_11_q16",
+    "patient_11_q17",
+    "patient_11_q18",
+    "patient_11_q19",
+    "patient_12_q0",
+    "patient_12_q1",
+    "patient_12_q2",
+    "patient_12_q3",
+    "patient_12_q4",
+    "patient_12_q5",
+    "patient_12_q6",
+    "patient_12_q7",
+    "patient_12_q8",
+    "patient_12_q9",
+    "patient_12_q10",
+    "patient_12_q11",
+    "patient_12_q12",
+    "patient_12_q13",
+    "patient_12_q14",
+    "patient_12_q15",
+    "patient_12_q16",
+    "patient_12_q17",
+    "patient_12_q18",
+    "patient_12_q19",
+    "patient_13_q0",
+    "patient_13_q1",
+    "patient_13_q2",
+    "patient_13_q3",
+    "patient_13_q4",
+    "patient_13_q5",
+    "patient_13_q6",
+    "patient_13_q7",
+    "patient_13_q8",
+    "patient_13_q9",
+    "patient_13_q10",
+    "patient_13_q11",
+    "patient_13_q12",
+    "patient_13_q13",
+    "patient_13_q14",
+    "patient_13_q15",
+    "patient_13_q16",
+    "patient_13_q17",
+    "patient_13_q18",
+    "patient_13_q19",
+    "patient_14_q0",
+    "patient_14_q1",
+    "patient_14_q2",
+    "patient_14_q3",
+    "patient_14_q4",
+    "patient_14_q5",
+    "patient_14_q6",
+    "patient_14_q7",
+    "patient_14_q8",
+    "patient_14_q9",
+    "patient_14_q10",
+    "patient_14_q11",
+    "patient_14_q12",
+    "patient_14_q13",
+    "patient_14_q14",
+    "patient_14_q15",
+    "patient_14_q16",
+    "patient_14_q17",
+    "patient_14_q18",
+    "patient_14_q19",
+    "patient_15_q0",
+    "patient_15_q1",
+    "patient_15_q2",
+    "patient_15_q3",
+    "patient_15_q4",
+    "patient_15_q5",
+    "patient_15_q6",
+    "patient_15_q7",
+    "patient_15_q8",
+    "patient_15_q9",
+    "patient_15_q10",
+    "patient_15_q11",
+    "patient_15_q12",
+    "patient_15_q13",
+    "patient_15_q14",
+    "patient_15_q15",
+    "patient_15_q16",
+    "patient_15_q17",
+    "patient_15_q18",
+    "patient_15_q19"
+  ],
+  "question_ids_hash": "0f4c331245d1925d",
+  "max_new_tokens": 2048,
+  "generations": [
+    {
+      "question_id": "patient_11_q0",
+      "generated_text": "Let\u2019s analyze the provided text to determine the initial reason for Mr. Hurley\u2019s hospital admission in October 2019.\n\nThe text states: \u201cThe patient reported temperatures up to 39\u00b0C for the past 3 days. Since 08/19, the patient has been receiving hematological-oncological treatment for MDS.\u201d This clearly indicates that the initial reason was related to fever and a possible infection/complication stemming from his underlying condition, Myelodysplastic Syndrome (MDS). The mention of \u201chematological-oncological treatment\u201d further reinforces this.\n\nTherefore, the correct answer is B.\n\nB"
+    },
+    {
+      "question_id": "patient_11_q1",
+      "generated_text": "Let's analyze the provided text to determine the medication initially omitted. The text states: \u201cInitially omission of pyrazinamide due to pancytopenia.\u201d\n\nTherefore, the correct answer is D.\n\nD"
+    },
+    {
+      "question_id": "patient_11_q2",
+      "generated_text": "Let's analyze the provided text regarding Mr. Hurley's medical history. The text states: \"Microbiology: 01/20/20 Sputum: Cultural detection of Mycobacterium tuberculosis: Phenotypically no evidence of resistance.\u201d This clearly indicates that Mycobacterium tuberculosis was last detected in his sputum on January 20, 2020.\n\nA\nB\nC\nD\nE\n\nB"
+    },
+    {
+      "question_id": "patient_11_q3",
+      "generated_text": "Let's analyze the provided text to determine the primary reason for Mr. Hurley\u2019s admission. The text repeatedly mentions his diagnosis of AML (Acute Myeloid Leukemia) and subsequently his decision to undergo allogeneic stem cell transplantation. While other conditions (tuberculosis, pancreatitis, EBV reactivation, and immune deficiency) were present, they were secondary to the AML and were addressed during his treatment. The core reason for the transplant was to address his AML.\n\nC"
+    },
+    {
+      "question_id": "patient_11_q4",
+      "generated_text": "Let's analyze the provided text to determine the significant change in Mr. Hurley\u2019s CT Thorax from 02/23/2021. The text details several CT scans over time, highlighting evolving findings. Key points to consider:\n\n*   **02/23/2021 CT:** The report indicates \u201cmarked progressive infiltration\u201d in the right upper lobe and central lower lobe, \u201cpartially necrotic\u201d areas, and \u201cincreasing patchy densities\u201d on the left basal region.\n*   **Previous Scans:** Earlier scans (referenced in the text) showed a progression of the infiltrates and increasing necrotic changes.\n\nConsidering these details, option B, \"Development of large poorly perfused areas with cavitations,\" best describes the notable change observed in the 02/23/2021 scan. The description of \u201cincreasing patchy densities\u201d and \u201cpartially necrotic\u201d areas points toward the formation of cavities.\n\nB"
+    },
+    {
+      "question_id": "patient_11_q5",
+      "generated_text": "Let's analyze the provided text to determine the initial imaging finding suggestive of tuberculosis.\n\nThe text details Mr. Hurley\u2019s medical history and imaging findings. Specifically, it mentions:\n\n*   **11/01/19 Chest CT:** \u201cMediastinal lymph node conglomerate centrally with poststenotic infiltrates on both sides. Splenomegaly.\u201d\n*   Later imaging shows continued findings consistent with tuberculosis.\n\nConsidering the options:\n\n*   A. Splenomegaly - This is a noted finding but not directly suggestive of TB.\n*   B. Mediastinal lymph node conglomerate - This is a significant finding and consistent with the initial CT report, raising suspicion for TB.\n*   C. Liver tuberculosis - This is mentioned as a diagnosis but is a later finding, not the initial one.\n*   D. Bronchial and vascular stenosis - This is a related finding but not the primary initial indication for TB.\n*   E. Neck/Thorax CT showing regression of pulmonary infiltrates - This describes a later finding, not the initial imaging.\n\nTherefore, the initial imaging finding that suggested tuberculosis was the mediastinal lymph node conglomerate.\n\n**B**"
+    },
+    {
+      "question_id": "patient_11_q6",
+      "generated_text": "Let's analyze the provided text to determine which imaging study showed progression of Mr. Hurley's tuberculosis.\n\nThe text describes several imaging studies performed on Mr. Hurley:\n\n*   **11/01/19 Chest CT:** Showed mediastinal lymph node conglomerate with poststenotic infiltrates.\n*   **11/04/19 Bronchoscopy:** Revealed large mediastinal and right hilar lymphomas.\n*   **02/05/20 Neck/Chest/Abdomen/Pelvis CT:** This scan specifically noted \u201cincreasing, partly new and large-volume consolidations with adjacent ground glass infiltrates on the right in the anterior, less posterior upper lobe and perihilar.\u201d It also showed \u201cpersistent necrotic lymph nodes\u201d in the mediastinum and right hilar region.\n\nThe description of the findings on the 02/05/20 CT scan clearly indicates a worsening of the tuberculosis, supporting it as the correct answer.\n\nB"
+    },
+    {
+      "question_id": "patient_11_q7",
+      "generated_text": "Let's analyze the provided text about Mr. Hurley's medical history, focusing on the chest CT findings. The text states: \u201cOn 10/02/20 Chest CT: Marked necrotic consolidation in the right upper lobe and adjacent central lower lobe, with a progressive, partly new and large-volume consolidation on the right...\u201d. The other elements mentioned\u2014regressive findings and right pleural effusion\u2014are not explicitly stated as significant findings.\n\n**A. Regressive pulmonary infiltrates** \u2013 This is partially correct, as there is a \u201cregressive\u201d aspect to the consolidation, but the primary finding is the new consolidation.\n**B. Progressive right pleural effusion** \u2013 The text doesn't describe a pleural effusion.\n**C. Regressive lymph nodes** \u2013 While the text mentions lymph node changes, it focuses on the consolidation.\n**D. All of the above** \u2013 This is incorrect because options B and C are not directly supported by the text.\n**E. None of the above** \u2013 This is incorrect because a significant consolidation was described.\n\nThe text clearly indicates a new and significant consolidation in the right upper and lower lobes. The mention of regression is secondary to this primary finding.\n\nD"
+    },
+    {
+      "question_id": "patient_11_q8",
+      "generated_text": "Let's analyze the provided text to determine the medication added in February 2021.\n\nThe text describes a treatment history for Mr. Hurley, including the following:\n- Initial omission of pyrazinamide due to pancytopenia\n- Moxifloxacin: 11/10/19-11/20/19\n- Pyrazinamide: 11/20/19-02/11/20\n- Ethambutol: 11/08/19-02/11/20\n- Rifampicin since: 11/08/19\n- Isoniazid since: 11/08/19\n- Levofloxacin since: 02/11/20\n- Actimmune\u00ae from 04/22 CT: Regressive findings\u2026\n\nThe text explicitly states that, in February 2021, RMP + INH + FQ were used. Since the provided options are medications used in the patient\u2019s previous treatment, the correct answer must be among those medications mentioned.\n\nLooking at the options, Azacitidine was introduced in February 2021.\n\nA. Azacitidine\nB. Levofloxacin\nC. Rifampicin\nD. Ethambutol\nE. Pyrazinamide\n\n**A**"
+    },
+    {
+      "question_id": "patient_11_q9",
+      "generated_text": "Let's analyze the provided text. We are looking for Mr. Hurley's Hemoglobin level upon last recorded discharge. Scanning through the text, we find the following:\n\n*   **Text 0:** \"Hemoglobin level: 6.6 g/dL\"\n\nTherefore, the correct answer is A.\n\nA"
+    },
+    {
+      "question_id": "patient_11_q10",
+      "generated_text": "Let\u2019s analyze the provided text. Mr. Hurley was diagnosed with AML and had low basal interferon-gamma levels. The text states that \u201can immunomodulatory therapy for low basal interferon / interferon levels (ACTIMMUNE\u00ae) was initiated.\u201d\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_11_q11",
+      "generated_text": "Let's analyze the provided text regarding Mr. Hurley\u2019s liver lesions as of 06/11/2021. The text states: \"CT Chest/Abdomen/Pelvis on 06/15/2021: Size-stable liver lesions\u2026\u201d. This indicates that the liver lesions were not increasing in size (progressive), decreasing in size (regressive), or new (new onset). Instead, they were at a consistent size.\n\nB"
+    },
+    {
+      "question_id": "patient_11_q12",
+      "generated_text": "Let's analyze the provided text. The text states: \"Bone marrow biopsy showed secondary AML with 26% blasts.\"\n\nD\n\n**D**"
+    },
+    {
+      "question_id": "patient_11_q13",
+      "generated_text": "Let\u2019s analyze the provided text to determine the therapy initiated in March 2021 for Mr. Hurley. The text mentions:\n\n*   \u201cSince February 2021, Mr. Hurley has received Venetoclax/Vidaza.\u201d\n*   \u201cIn April 2021, Actimmune\u00ae was added\u201d\n\nTherefore, the combination therapy started in March 2021 was Venetoclax and Vidaza.\n\nB"
+    },
+    {
+      "question_id": "patient_11_q14",
+      "generated_text": "Let\u2019s analyze the provided patient information. The text states \u201callogeneic stem cell transplantation from a HLA-identical unrelated donor (10/10 antigen match)\u201d in July 2021. This clearly indicates that the stem cells originated from an HLA-identical unrelated donor.\n\nC"
+    },
+    {
+      "question_id": "patient_11_q15",
+      "generated_text": "Let\u2019s analyze Mr. Hurley\u2019s medical history to determine which medication is not part of his treatment plan.\n\nThe provided text details a complex medical history including tuberculosis, myelodysplastic syndrome, and, ultimately, allogeneic stem cell transplantation for AML. The medications listed include:\n\n*   **Acyclovir:** Used to treat viral infections, potentially relevant due to his immunocompromised state.\n*   **Entecavir:** Used to treat viral infections, potentially relevant due to his immunocompromised state.\n*   **Mycophenolate Mofetil:** An immunosuppressant used to prevent graft-versus-host disease after stem cell transplantation.\n*   **Cyclosporine:** Another immunosuppressant commonly used post-transplant.\n*   **Methotrexate:** Typically used in chemotherapy regimens, but not explicitly mentioned in this patient\u2019s documented treatment.\n\nTherefore, the answer is **E**.\n\nE"
+    },
+    {
+      "question_id": "patient_11_q16",
+      "generated_text": "Let\u2019s analyze the patient\u2019s history and the provided text to determine the appropriate timing for the next bone marrow puncture.\n\nMr. Hurley is undergoing allogeneic stem cell transplantation for AML. Standard post-transplant monitoring includes bone marrow biopsies at specific intervals to assess graft-versus-host disease (GVHD) and overall response. The text indicates the bone marrow puncture schedule is to be performed at Day +60, +120, and +360.\n\nTherefore, the correct answer is:\n\nC"
+    },
+    {
+      "question_id": "patient_11_q17",
+      "generated_text": "Let\u2019s analyze the provided text to find the date when Mr. Hurley\u2019s Myelodysplastic Syndrome (MDS) was diagnosed as having ring sideroblasts.\n\nThe text states: \u201cOn August 10, 2019, a bone marrow biopsy was performed, and the result showed MDS with ring sideroblasts.\u201d\n\nTherefore, the correct answer is B.\n\nB"
+    },
+    {
+      "question_id": "patient_11_q18",
+      "generated_text": "Let's break down the chronological order of events in Mr. Hurley's case:\n\n1. **October 2019:** Initial hospitalization for neutropenic fever.\n2. **November 2019:** Diagnosis of tuberculosis and initiation of four-drug anti-tuberculosis therapy.\n3. **January 2020:** First detection of acid-fast bacilli in sputum samples.\n4. **January 2021:** Diagnosis of secondary AML (Acute Myeloid Leukemia).\n5. **January 2021:** Start of Actimmune\u00ae injections.\n6. **July 2021:** Allogeneic stem cell transplantation.\n\nNow, let\u2019s evaluate the options:\n\n*   **A:** This option accurately reflects the chronological sequence of events, starting with the initial fever and progressing through the tuberculosis diagnosis, AML diagnosis, and stem cell transplant.\n*   **B:** This option incorrectly places the tuberculosis diagnosis earlier than the initial fever and includes an irrelevant mention of pancreatitis.\n*   **C:** This option is partly correct, but it misplaces the timing of the AML diagnosis.\n*   **D:** This option has several incorrect sequencing elements, most notably placing the stem cell transplant before the AML diagnosis.\n*   **E:** This option includes an incorrect temporal relationship between the start of Levofloxacin and the later diagnosis of AML.\n\n**A**"
+    },
+    {
+      "question_id": "patient_11_q19",
+      "generated_text": "Okay, let's break down the chronological order of the radiology examinations for Mr. Hurley, based on the provided text:\n\n1.  **11/01/19 Chest CT:** Initial chest CT showing mediastinal lymph node conglomerate.\n2.  **11/04/19 Bronchoscopy:** Followed by a bronchoscopy and EBUS-TBNA.\n3.  **11/04/19 Neck/Chest CT:** A separate neck and chest CT was performed.\n4.  **11/04/19 Neck/Chest/Abdomen/Pelvis CT:**  A combined CT scan of the neck, chest, abdomen, and pelvis was conducted.\n5.  **01/04/20 Chest CT:** Another chest CT was performed.\n6.  **02/05/20 Neck/Chest/Abdomen/Pelvis CT:** A follow-up CT scan of the neck, chest, abdomen, and pelvis.\n7.  **06/15/20 BAL:** Bronchoalveolar Lavage (BAL)\n8.  **06/15/20 Lung biopsy:** Lung biopsy\n9.  **03/12/20 Sputum:** Sputum analysis\n10. **07/16/21:** Mediastinal lymph node biopsy\n11. **04/23/2017:** Right Thigh CT\n12. **08/01/2018:** Chest and Abdominal CT\n\nNow let\u2019s look at the options:\n\n*   **A:** Incorrect - doesn\u2019t capture the sequence.\n*   **B:** Incorrect - Presents the order incorrectly.\n*   **C:** Incorrect - Presents the order incorrectly.\n*   **D:** This option correctly lists the imaging studies in the correct chronological order.\n*   **E:** Incorrect - The order is jumbled.\n\n**D**"
+    },
+    {
+      "question_id": "patient_12_q0",
+      "generated_text": "Let's analyze the provided text to determine when Mr. Fisher was first diagnosed with heart disease.\n\nThe text mentions several cardiac events:\n*   **1989:** \u201cPrevious anterior wall infarction in 1989, treated with thrombolysis and PTCA\u201d \u2013 This indicates a first diagnosis of heart disease in 1989.\n*   **1995:** \u201cStatus post\u2026 coronary artery disease (CAD) with stent placement\u201d \u2013 This indicates a subsequent event, but not the initial diagnosis.\n*   **2005:** \u201cPTCA + drug-eluting stent (DES) in RIVA on 05/15/2005\u201d \u2013 A further intervention, not the initial diagnosis.\n*   **2006:** \u201cPTCA + Genous (anti CD34+ Antibody-coated) in RIVA on 08/14/2006\u201d \u2013 Another intervention.\n*   **2008:** \u201cRemaining: 75% stenosis in D1 and occlusion of the small RCA (last cardiac catheterization on 03/24/2008)\u201d \u2013 A later diagnosis or assessment of existing heart disease.\n\nThe first mention of heart disease is in 1989 with the anterior wall infarction.\n\n**A**"
+    },
+    {
+      "question_id": "patient_12_q1",
+      "generated_text": "Let's analyze the provided text to determine the cardiac intervention Mr. Fisher underwent in May 1995.\n\nThe text states: \u201cPTCA + stent in the right coronary artery (RIVA) in 05/1995.\u201d\n\nTherefore, the correct answer is D.\n\nD"
+    },
+    {
+      "question_id": "patient_12_q2",
+      "generated_text": "Let\u2019s analyze the provided text to determine the outcome of the histological examination after Mr. Fisher\u2019s surgery.\n\nThe text states: \u201cHistopathology: [Microscopy:]{.underline} (Hematoxylin and Eosin staining): Histologically, infiltrates of a mesenchymal neoplasm can be seen in a section we prepared\u2026 [Diagnosis]{.underline}: Incisional biopsy suspected of a myxoid liposarcoma\u2026\u201d. This clearly indicates that the examination found a myxoid liposarcoma, and crucially, it states \u201cno evidence of malignancy\u201d.\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_12_q3",
+      "generated_text": "Let's analyze the provided text to determine when Mr. Fisher began hemodialysis.\n\nThe text states: \u201cFrom 09-10/1995, he received chronic hemodialysis.\u201d This clearly indicates that he began hemodialysis in September-October of 1995.\n\nA. 1995 - This aligns with the provided information.\nB. 2005 - Incorrect\nC. 2007 - Incorrect\nD. 2008 - Incorrect\nE. 2020 - Incorrect\n\n**A**"
+    },
+    {
+      "question_id": "patient_12_q4",
+      "generated_text": "Let's analyze the provided text to determine the primary reason for Mr. Fisher's hospitalization. The text states he was admitted \"due to a suspected urethral stricture.\" This stricture was later confirmed to be causing urinary extravasation and related complications. The text also mentions \u201cprogressive deterioration of renal transplant function\u201d as one of the diagnoses. However, the hospitalization was specifically *because* of this deterioration \u2013 the worsening kidney function was the driving factor.\n\nTherefore, the primary diagnosis leading to his hospitalization was the progressive deterioration of his renal transplant function.\n\nC"
+    },
+    {
+      "question_id": "patient_12_q5",
+      "generated_text": "Let's analyze the provided text. The patient, Mr. Alan Fisher, underwent a biopsy in April 2009, which revealed osteopenia (low bone density). The text states: \u201cFollowing the incision biopsy\u2026 we discussed the importance of regular intake of vitamin D (20,000 I.U. once a week) and adequate calcium intake, such as through calcium-rich mineral water, to prevent the development of overt osteoporosis.\u201d It also mentions that he was already taking Vitamin D supplements. This indicates an added medication to address the osteopenia. The text does not directly mention Cyclosporine A, Steroid, Lymphocyte proliferation inhibitor, Marcumar, or Minoxidil. However, the information provided focuses on bone health and the need for vitamin D and calcium.\n\n**B**"
+    },
+    {
+      "question_id": "patient_12_q6",
+      "generated_text": "Let's analyze the provided text regarding Mr. Alan Fisher's medical history. The key piece of information relates to the kidney biopsy performed on 04/19/2009. The report states: \u201cHistopathology: (Hematoxylin and Eosin staining): Histologically, there is an infiltrate of a mesenchymal neoplasm in a section we prepared. Below this are areas estimated to contain 90% tumor, which have been selected and labeled for molecular pathological analysis.\u201d While the document describes a more complex situation, the most directly reported finding related to the kidney tissue itself is the presence of a mesenchymal neoplasm. Now looking at the options, isometric tubular epithelial vacuolization (B) is a different finding and not the primary description of the biopsy. The other options \u2013 inflammation, cell necrosis, medullary tissue damage \u2013 are not highlighted as the core finding.\n\nB"
+    },
+    {
+      "question_id": "patient_12_q7",
+      "generated_text": "Let\u2019s analyze the provided patient information to determine the medication error.\n\nThe text details Mr. Fisher's hospitalization in April 2009 for a pneumonia. It mentions a slight increase in creatinine levels, suggesting a problem with kidney function. It also lists several medications he was taking, including Cyclosporine A and Steroid. Importantly, the text states he was admitted for \u201crenal failure\u201d and a \u201ckidney transplant.\u201d The admission note mentions an elevated creatinine and the need for an outpatient follow-up for kidney evaluations.\n\nNow let's evaluate the answer choices:\n\n*   **A. Overdose of Marcumar:** Marcumar (Warfarin) is an anticoagulant and would be used to prevent blood clots. There\u2019s no indication of a clotting issue or an overdose in the provided text.\n*   **B. Double dosing of Cyclosporin A:** The text doesn\u2019t mention anything about a double dose of Cyclosporin A.\n*   **C. Incorrect administration of Steroid:** The text doesn't provide information about an error in steroid administration.\n*   **D. Overdose of Minoxidil:** The text doesn\u2019t include any information about the use of Minoxidil.\n*   **E. Underdosing of Mycophenolic Acid:** The text does not list Mycophenolic Acid as a medication the patient was receiving.\n\nGiven the lack of information about any of the other medications, and the implication of kidney problems from the creatinine elevation, the most plausible medication error would be related to the immunosuppressant medication he was taking which was not mentioned. Considering that the patient is a renal transplant patient, the most likely answer is an incorrect dose of a medication related to this.\n\n**B**"
+    },
+    {
+      "question_id": "patient_12_q8",
+      "generated_text": "Let\u2019s analyze the provided patient information. The text states: \u201cMild sleep apnea syndrome in 01/2005\u201d. Therefore, the answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_12_q9",
+      "generated_text": "Let's analyze the provided patient history to determine which condition was *not* present in 2009.\n\n*   **A. Hepatitis B infection:** The patient\u2019s history mentions a Hepatitis B infection.\n*   **B. Secondary hyperparathyroidism:** The patient's history explicitly states a diagnosis of secondary hyperparathyroidism.\n*   **C. COPD GOLD Stage II:** The patient\u2019s history indicates a COPD diagnosis, categorized as GOLD Stage II.\n*   **D. Cholecystolithiasis:** The patient\u2019s history notes a prior cholecystectomy, suggesting a history of gallstones (cholecystolithiasis).\n*   **E. Diabetic nephropathy:** The patient's history indicates a diagnosis of non-insulin-dependent diabetes mellitus (NIDDM), which *could* lead to diabetic nephropathy, but it wasn\u2019t explicitly stated as a confirmed diagnosis in 2009.\n\nTherefore, the answer is E.\n\nE"
+    },
+    {
+      "question_id": "patient_12_q10",
+      "generated_text": "Let's analyze the provided text to determine the correct answer.\n\nThe patient\u2019s medical history details admissions from the following years:\n*   **2009:** Admission for bronchopneumonia and urosepsis.\n*   **2016:** Admission for myxoid liposarcoma.\n*   **2017:** Admission for bone density measurements.\n*   **2018:** Admission for a follow-up on osteopenia.\n*   **2020:** Admission for a follow-up on chronic kidney disease.\n\nThe text clearly states he was admitted for urosepsis and acute postrenal kidney failure in **2009**.\n\nD"
+    },
+    {
+      "question_id": "patient_12_q11",
+      "generated_text": "Let\u2019s analyze the provided patient information. The text states: \u201cPermanent atrial fibrillation, diagnosed in 03/07, unsuccessful cardioversion on 03/2008\u201d. This directly indicates that the attempted cardioversion in March 2008 was unsuccessful.\n\nC"
+    },
+    {
+      "question_id": "patient_12_q12",
+      "generated_text": "Let\u2019s analyze the provided patient information. The text mentions \u201cright leg\u201d and \u201cright superficial femoral artery profundaplasty\u201d performed in March 2007. A profundaplasty is a procedure to treat a superficial femoral artery aneurysm or stenosis.\n\nA. Femoral artery bypass - This involves creating a new route for blood flow, not a repair of the existing artery.\nB. Profundaplasty - This is the correct answer, as the text explicitly states the procedure involved a \u201cright superficial femoral artery profundaplasty.\u201d\nC. Vein stripping - This is a different procedure related to varicose veins.\nD. Arterial stenting - This is a modern procedure, not relevant to the historical context.\nE. Varicose vein treatment \u2013 Profundaplasty is often done in conjunction with varicose vein treatment.\n\nB"
+    },
+    {
+      "question_id": "patient_12_q13",
+      "generated_text": "Let\u2019s analyze the provided patient information. The text states: \u201cLast cardiac catheterization on 03/24/2008: 75% stenosis in D1 and occlusion of the small RCAta.\u201d\n\nE"
+    },
+    {
+      "question_id": "patient_12_q14",
+      "generated_text": "Let's analyze the provided text to determine Mr. Fisher's history regarding liver issues.\n\nThe text mentions several findings related to the liver:\n*   \u201cAbdominal sonography showed normal findings, particularly no hepatomegaly, hepatic steatosis, or space-occupying lesions.\u201d\n*   \u201cMinimal liver enlargement without hepatic steatosis\u201d\n*   \u201cGallbladder and bile ducts show sludge-like concrements with no signs of inflammation\u201d\n\nConsidering these statements, the most accurate answer is that he had cholelithiasis.\n\nE"
+    },
+    {
+      "question_id": "patient_12_q15",
+      "generated_text": "Let\u2019s analyze the provided patient information. The patient, Mr. Alan Fisher, has a history of \u201cpossible dose-dependent intolerance\u201d to Fluvastatin. This directly indicates that Fluvastatin was the medication causing the issue.\n\nA. Fluvastatin \u2013 This is explicitly stated as a potential cause of intolerance.\nB. Cyclosporin A \u2013 Not mentioned in the patient\u2019s history.\nC. Mycophenolic Acid \u2013 Not mentioned in the patient\u2019s history.\nD. Prednisone \u2013 Not mentioned in the patient\u2019s history.\nE. Metoprolol \u2013 Not mentioned in the patient\u2019s history.\n\n**A**"
+    },
+    {
+      "question_id": "patient_12_q16",
+      "generated_text": "Let's analyze the provided patient summaries to identify the significant medication change.\n\n*   **April 2009 Discharge:** The medications listed include Cefuroxime, and no mention of anticoagulants, immunosuppressants, or cardiac medications. Aspirin is also listed.\n*   **October 2018 Discharge:** The medications listed include Vitamin D3 (Drisdol), Calcium supplements, Folic acid, and Apixaban (Eliquis).\n\nComparing the two discharge medication lists, Apixaban (Eliquis) is introduced in October 2018, whereas it was not present in April 2009. The other options are not supported by the provided information.\n\n**A**"
+    },
+    {
+      "question_id": "patient_12_q17",
+      "generated_text": "Okay, let's analyze Mr. Fisher's medication history to determine which medication is absent between November 2018 and July 2019.\n\nFirst, let\u2019s review the November 2018 medications (as the question implies this is the baseline):\n\n*   Aspirin\n*   Candesartan (Atacand)\n*   Chlorthalidone (Hygroton)\n*   Multi-Vitamin\n*   Hawthorn Herb\n*   Sodium Selenite\n*   Zinc\n*   Vitamin D3 (Cholecalciferol)\n\nNow, let\u2019s look at the medications listed in the July 2019 discharge summary:\n\n*   Empagliflozin (Jardiance)\n*   Metformin (Glucophage)\n*   Atorvastatin (Lipitor)\n*   Metoprolol Tartrate (Lopressor)\n*   Pantoprazole (Protonix)\n*   Vitamin D3 (Cholecalciferol)\n\nComparing the two lists, we see that **Torsemide (Demadex)** is present in the November 2018 list but absent from the July 2019 discharge summary.\n\n**C**"
+    },
+    {
+      "question_id": "patient_12_q18",
+      "generated_text": "Let\u2019s analyze the provided patient notes to determine the trend of CRP levels from April 2009 to March 2020.\n\nThe patient\u2019s medical history indicates he was diagnosed with chronic kidney disease.  CRP is an indicator of inflammation and infection, often elevated in conditions like CKD. Examining the provided text, there are several entries that demonstrate an increasing trend of CRP. We see that CRP was initially 0.6 mg/L in May 2018, and it went to 0.8 mg/L in 2019 and 2.6 mg/L in March 2020. This represents a clear increase over the period.\n\nB"
+    },
+    {
+      "question_id": "patient_12_q19",
+      "generated_text": "Okay, let's analyze the provided patient data to determine the change in Mr. Fisher\u2019s hemoglobin levels from April 2009 to March 2020.\n\nFirst, I need to identify the hemoglobin values from those time periods.\n\nFrom the provided text, the lab results on 04/23/2017 show a hemoglobin level of 10.1 g/dL.\nThe lab results on 01/12/2020 show a hemoglobin level of 12.7 g/dL.\n\nNow, let's compare the two values: 12.7 g/dL (March 2020) is higher than 10.1 g/dL (April 2009). Importantly, the hemoglobin levels increased over the 10-year period.\n\nTherefore, the correct answer is D.\n\nD"
+    },
+    {
+      "question_id": "patient_13_q0",
+      "generated_text": "Let's analyze the provided text to identify the consistently normal lab parameter post-surgery in December 2015. The text includes several lab results, including sodium, potassium, hemoglobin, platelets, white blood cells, and more. We need to find the one that is consistently within the reference range in that period.\n\nLooking through the provided text, we can see the following:\n\n*   **Sodium:** Reported as 137 mEq/L (within the reference range).\n*   **Potassium:** Reported as 4.1 mEq/L (within the reference range).\n*   **Hemoglobin:** Reported as 12.7 g/dL (within the reference range).\n*   **Platelets:** Reported as 281 K/uL (within the reference range).\n*   **White Blood Cells:** Reported as 4.98 K/uL (within the reference range).\n\nAll of these parameters are consistently reported as being within the reference range in the specified period. However, the question asks for *a* parameter consistently within the normal range, not *all*. The key here is \"consistently\". Sodium and potassium both appear to be consistently normal. However, the question asked for the \u2018parameter\u2019, and sodium appears to be the single best answer because it\u2019s frequently mentioned and appears to be reliably within the range in multiple reports.\n\nB. Potassium\nC. Hemoglobin\nD. Platelets\nE. White Blood Cells\n\n**A**"
+    },
+    {
+      "question_id": "patient_13_q1",
+      "generated_text": "Let's analyze Mr. Harder's treatment history to determine the medication initiated for his lymph node and bone metastases.\n\n1.  The text describes a progression of treatments: initial biopsy, en bloc excision, and then subsequent chemotherapy (Docetaxel, Cabazitaxel) and radiation therapy.\n\n2.  Lutetium PSMA-Therapy was used to treat the metastases.\n\n3.  Zometa and Trenantone are bisphosphonates used for bone health, not for direct treatment of cancer.\n\n4.  Cabazitaxel was mentioned as a chemotherapy agent used after Lutetium therapy.\n\nTherefore, the medication initiated for lymph node and bone metastatic prostate cancer was Lutetium PSMA-Therapy.\n\nB"
+    },
+    {
+      "question_id": "patient_13_q2",
+      "generated_text": "Let\u2019s analyze Mr. Harder\u2019s situation. He has mCRPC (metastatic castration-resistant prostate cancer), meaning the cancer has spread and continues to grow despite hormone therapy. His recent treatment involved Lutetium PSMA-Therapy, which showed some initial success in shrinking metastases. However, more recent imaging revealed new metastases in the lungs, indicating disease progression.\n\nConsidering this, we need to identify a next step that addresses this progression.\n\n*   **A. Increase the dose of aspirin:** Aspirin is used for cardiovascular protection, not specifically for mCRPC.\n*   **B. Continue with the same regimen of Lutetium PSMA-Therapy:** Given the new metastases, continuing the same therapy without modification is unlikely to be effective.\n*   **C. Initiate Abiraterone + Prednisolone therapy:** This combination is a common treatment strategy for mCRPC, often used after prior therapies have failed. It targets different mechanisms than Lutetium PSMA-Therapy.\n*   **D. Discontinue all treatments and monitor PSA levels:** Discontinuing treatment in mCRPC would be highly detrimental, leading to rapid disease progression.\n*   **E. Start a new cycle of chemotherapy:** Chemotherapy is generally not the first-line treatment for mCRPC due to its toxicity profile.\n\nTherefore, initiating Abiraterone + Prednisolone is the most appropriate next step.\n\nC"
+    },
+    {
+      "question_id": "patient_13_q3",
+      "generated_text": "Let\u2019s analyze the provided text to determine the significant change in Mr. Harder\u2019s bone metastasis reported in the July 2023 PSMA-PET-CT scan.\n\nThe text states: \u201cMr. Harder presented at our Center for Rare Metabolic Diseases on 07/05/2018. He presented at our outpatient clinic on 08/01/2018. \u2026 A PSMA-PET-CT scan indicated new extensive metastasis in the sacrum and diffuse lung metastases, accompanied by a PSA level of 1.35 ng/ml.\u201d\n\nThis clearly indicates the *new* finding was the \u201cextensive metastasis in the sacrum\u201d.\n\n**B**"
+    },
+    {
+      "question_id": "patient_13_q4",
+      "generated_text": "Let's analyze the provided text to determine the first imaging study confirming seminal vesicle infiltration.\n\nThe text details a progression of imaging studies. Initially, there\u2019s a chest X-ray and CT scan of the chest and abdomen, followed by a bone density measurement. Crucially, the text states \u201cIncisional biopsy\u2026confirmed the presence of myxoid liposarcoma in the pulmonary lesion.\u201d A subsequent CT scan (04/23/2017) revealed \u201cno evidence of a suspicious nodular, contrast-affine lesion\u201d but also confirmed osteopenia in the femur. Furthermore, the text mentions \u201cThe results of the imaging studies were then used to guide the treatment plan.\u201d Finally, the text mentions a PSMA PET-CT scan in 2022 revealing metastases, however, this was performed significantly later in the patient\u2019s treatment timeline. \n\nThe key phrase is \"Incisional biopsy\u2026 confirmed the presence of myxoid liposarcoma in the pulmonary lesion\u201d. The biopsy result and subsequent imaging were all performed after the initial encounter at the outpatient clinic. \n\nConsidering the sequence, the initial biopsy results drove further investigation with CT scan of the abdomen/pelvis on 04/16/2017, which revealed the infiltration of the seminal vesicles.\n\nTherefore, the correct answer is B.\n\nB"
+    },
+    {
+      "question_id": "patient_13_q5",
+      "generated_text": "Let's analyze the provided text to determine when Mr. Harder first started experiencing symptoms related to urinary tract infection post-surgery.\n\nThe text states: \u201cIn January 2013, a diagnosis of osteopenia was made for his lumbar spine and both femurs.\u201d and \u201cMr. Davies has classic galactosemia\u2026\u201d. This refers to a later event.\n\nThe text then describes his presentation on 06/14/2018 with symptoms such as shortness of breath, cough, and discomfort, indicating a current urinary tract infection.\n\nTherefore, the first symptoms related to UTI post-surgery occurred in 2018.\n\nD"
+    },
+    {
+      "question_id": "patient_13_q6",
+      "generated_text": "Let's analyze the provided text to determine the treatment received after the discovery of lymph node metastasis in November 2022.\n\nThe text states: \u201cIn 04/2023, the patient underwent a re-challenge with Cabazitaxel therapy for one cycle but had to discontinue chemotherapy due to polyneuropathy and cramps.\u201d This indicates that Cabazitaxel chemotherapy was administered following the detection of metastasis.\n\n**D**"
+    },
+    {
+      "question_id": "patient_13_q7",
+      "generated_text": "Let's analyze the text provided. The relevant section discussing the surgery states: \"In 2021, a decompressive hemilaminectomy with microsurgical tumor resection from the epidural space was performed.\u201d The date of the surgery is explicitly stated as February 2021.\n\n**B**"
+    },
+    {
+      "question_id": "patient_13_q8",
+      "generated_text": "Let's analyze the provided patient notes to determine when Mr. Harder developed pronounced fatigue.\n\n*   **Initial Treatment (2015-2017):** He underwent prostatectomy and was monitored for recurrence, with initial reports of developmental delays and osteopenia.\n*   **Later Treatment (2018-2020):** He received Docetaxel and Cabazitaxel chemotherapy, followed by Lutetium-Radioligand Therapy. Bone density measurements showed worsening osteopenia.\n*   **Recent Treatment (2023):** A further cycle of Cabazitaxel was initiated, and fatigue was reported.\n\nThe key point is that the notes explicitly state that the patient reported \u201cpronounced fatigue symptoms\u201d after the *fourth* cycle of Cabazitaxel.\n\n**D**"
+    },
+    {
+      "question_id": "patient_13_q9",
+      "generated_text": "Let's analyze the provided text about Mr. Harder\u2019s medications upon admission for prostate cancer treatment. The text lists the following medications:\n\n*   Valsartan\n*   Aspirin\n*   Simvastatin\n*   Doxazosin\n\nCandesartan is not mentioned in the provided text.\n\n**D**"
+    },
+    {
+      "question_id": "patient_13_q10",
+      "generated_text": "Let's analyze the provided text. The text states: \"Initially, 11 out of 12 biopsy samples were found to contain prostate cancer.\"\n\nE"
+    },
+    {
+      "question_id": "patient_13_q11",
+      "generated_text": "Let\u2019s analyze the provided text. The text states: \u201cInitial PSA level: 4.8 ng/ml\u201d and \u201cIn October 2015\u201d with a PSA level of 5.42 ng/ml.\n\nB"
+    },
+    {
+      "question_id": "patient_13_q12",
+      "generated_text": "Let\u2019s analyze the provided text to find the answer. The text states: \u201cAs of the PET/CT scan on 08/01/2018\u2026\u201d. However, the question asks about the PSA level on 12/11/2022. The text mentions a PSA of 0.48 ng/ml on 08/01/2018 and 1.35 ng/ml on 01/26/2020. The document does not provide the PSA value from 12/11/2022.\n\nGiven that the text doesn't state the PSA level for 12/11/2022, we must select the answer based on the available data. Since the most recent measurement before 12/11/2022 is 1.35 ng/ml, it is the most likely value.\n\nB"
+    },
+    {
+      "question_id": "patient_13_q13",
+      "generated_text": "Let\u2019s analyze the provided text to determine which side effect Mr. Harder *did not* experience.\n\nThe text mentions:\n*   \u201cClinically, the patient reports a stable overall condition, although he can become overwhelmed in stressful situations.\u201d - This suggests fatigue is present.\n*   \u201c\u2026occasional coughing, and intermittent chest discomfort\u201d - This hints at dyspnea.\n*   \u201c\u2026swallowing difficulties\u201d - He reports this.\n*   \u201cNo vomiting\u201d - This explicitly states he didn\u2019t experience vomiting.\n*   \u201cNo diarrhea\u201d - This explicitly states he didn\u2019t experience diarrhea.\n\nTherefore, Mr. Harder did not experience vomiting.\n\nE"
+    },
+    {
+      "question_id": "patient_13_q14",
+      "generated_text": "Let\u2019s analyze the provided text to determine the planned genetic analysis. The report states: \u201cMolecular genetic analysis of the uridyltransferase gene with evidence of a homozygous mutation confirmed the diagnosis. The exact mutation is documented in the patient\u2019s records.\u201d and \u201cWe recommend the following follow-up schedule: \u2026 Bone density measurement\u2026Genetic sequencing for DNA repair gene alterations\u201d.\n\nTherefore, the correct answer is D.\n\nD"
+    },
+    {
+      "question_id": "patient_13_q15",
+      "generated_text": "Let's analyze the provided text to determine the PSA level changes.\n\nThe text states:\n*   In October 2015, the PSA level was 4.8 ng/ml.\n*   In July 2019, the PSA level was 0.01 ng/ml (undetectable).\n*   In January 2020, the PSA level was 0.16 ng/ml.\n*   In February 2020, the PSA level was 0.06 ng/ml.\n\nThe significant change is the increase from 0.01 ng/ml in July 2019 to 0.16 ng/ml in January 2020. This is a notable rise.\n\nNow let's examine the options:\n\n*   A. From undetectable to >0.03 ng/ml - Incorrect, the increase is from 0.01 to 0.16.\n*   B. From 0.48 ng/ml to 1.35 ng/ml - Incorrect, this doesn't align with the given data.\n*   C. From 5.42 ng/ml to 1.23 ng/ml - Incorrect, this doesn't align with the given data.\n*   D. From 1.23 ng/ml to 0.01 ng/ml - Incorrect, the PSA level increased, not decreased.\n*   E. No change, remained undetectable - Incorrect, the PSA level increased.\n\n**B**"
+    },
+    {
+      "question_id": "patient_13_q16",
+      "generated_text": "Let\u2019s analyze the provided text to determine the cause of the radiation therapy discontinuation. The text states that Mr. Harder\u2019s radiation therapy to the mediastinal lymph nodes was discontinued due to \u201cdyspnea and G3 esophagitis.\u201d\n\nTherefore, the correct answer is E.\n\nE"
+    },
+    {
+      "question_id": "patient_13_q17",
+      "generated_text": "Let's analyze the provided text regarding Mr. Harder's medical history and the events leading up to the neurological consultation on 06/25/2023. The text specifically states: \u201cNeuropsychological testing revealed slightly limited attention and working memory capacity, with otherwise age-appropriate performance. During the consultation, the patient reported a mild sensation of increased tension, most notably in the lower extremities.\u201d This strongly suggests a polyneuropathy syndrome affecting the lower limbs.\n\nC"
+    },
+    {
+      "question_id": "patient_13_q18",
+      "generated_text": "Let's analyze the provided patient notes to determine the trend in his lab results from December 2015 to June 2023.\n\n*   **Creatinine:** The notes show a rising creatinine level from 1.22 mg/dL in January 2020 to 1.07 mg/dL in December 2020 and 1.10 mg/dL in May 2023. This indicates declining kidney function, not stability.\n*   **Potassium:** Potassium levels decreased from 5.1 mEq/L in December 2015 to 4.1 mEq/L in June 2023, falling within the reference range.\n*   **Hemoglobin:** Hemoglobin levels decreased from 16.7 g/dL in February 2020 to 12.7 g/dL in June 2023, indicating anemia, not an increase.\n*   **eGFR:** The eGFR values show an initial decline and then stabilized.\n*   **Platelets:** Platelet count remained consistent.\n\nConsidering the above analysis, the most accurate statement is B.\n\nB"
+    },
+    {
+      "question_id": "patient_13_q19",
+      "generated_text": "Let's break down the chronological order of the imaging studies performed on Mr. Harder, based on the provided text:\n\n1.  **Initial Diagnosis & Early Imaging:** The patient initially presented with suspected prostate cancer, leading to a biopsy.\n2.  **CT Scan (Thigh):** A CT scan of the right thigh was performed to assess the tumor and surrounding tissues.\n3.  **Chest X-ray:** Follow-up chest X-ray was performed to monitor for any spread.\n4.  **CT Scan (Chest/Abdomen/Pelvis):** A CT scan of the chest, abdomen, and pelvis was done to stage the cancer and look for metastasis.\n5.  **Bone Density Measurements:** Multiple bone density measurements were taken at different points in time.\n6.  **MRI (Lumbar Spine):** An MRI of the lumbar spine was performed to assess for spinal metastasis.\n7.  **PSMA PET-CT Scan:** This scan was performed to detect any remaining metastases, particularly in the bone.\n8.  **Repeat PSMA PET-CT Scan:** A second PSMA PET-CT scan was performed to assess for further spread of the cancer.\n\nConsidering this chronological order, the correct answer is:\n\nB"
+    },
+    {
+      "question_id": "patient_14_q0",
+      "generated_text": "Let\u2019s analyze the provided text to find the size of the myxoid liposarcoma. The text states: \u201cMr. Havers has classic galactosemia with a loss of Galactose-1-Phosphate Uridyltransferase activity, confirmed both enzymatically and molecularly. Despite good metabolic control and excellent compliance, he has experienced developmental delays, particularly in language development. Clinically, the patient reports a stable overall condition, although he can become overwhelmed in stressful situations. He follows a lactose-free and low-galactose diet, which has kept disease-specific laboratory parameters, especially Galactose-1 Phosphate and Galactitol, within therapeutic target ranges. Additionally, there are no signs of liver dysfunction.\u201d\n\nThen it continues with: \"MRI of the Right Thigh on 02/19/2017: [Findings] \u2013  A 2.5 cm lesion was identified in the right lower lung lobe.\"\n\nThe text states the size as 2.5 cm. Converting this to millimeters, 2.5 cm is equal to 25 mm. The provided options do not have a 25mm size. Looking carefully at the options provided, and since there are multiple answers given in the document, we see that it is stated: \u201cThe lesion measured approximately 2.5 cm.\u201d Since 25 mm does not match any of the answers, and it is likely there is an error in transcription, the closest value to 25mm and the most plausible answer among the choices, is option B.\n\nB"
+    },
+    {
+      "question_id": "patient_14_q1",
+      "generated_text": "Let's analyze the text provided. The text explicitly states: \u201cMolecular genetic analysis of the uridyltransferase gene with the detection of a homozygous mutation confirmed the diagnosis.\u201d and \u201cNext-Generation Sequencing technology was used to analyze the tumor.\u201d Therefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_14_q2",
+      "generated_text": "Let's analyze the provided text. The histology report from 03/18/2017 states: \u201cHistologically, a proliferation of a mesenchymal neoplasm is evident in a section we prepared. Below this are areas estimated to contain 90% tumor, which have been selected and labeled for molecular pathological analysis. There were also 2 mitotic figures in 10 high-power fields.\u201d\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_14_q3",
+      "generated_text": "Let's analyze the provided text. The text states: \"Mr. Havers underwent an en bloc tumor excision with removal of the previous biopsy scar, partial resection of the gracilis, sartorius and adductor longus muscles and ligation of the great saphenous vein.\" It also specifies \"on 03/10/2017.\"\n\nTherefore, the correct answer is A.\n\nA"
+    },
+    {
+      "question_id": "patient_14_q4",
+      "generated_text": "Let\u2019s analyze the provided patient history to determine which medication was *not* part of his discharge prescription.\n\nThe patient\u2019s discharge summaries detail the following medications:\n*   Vitamin D3 (Drisdol) - for Vitamin D deficiency\n*   Calcium supplements \u2013 to support bone health\n*   Folic acid \u2013 to support cell growth and repair\n*   Empagliflozin \u2013 for metabolic control related to his galactosemia\n*   Metformin Hydrochloride \u2013 for diabetes management\n*   Atorvastatin Calcium \u2013 for cholesterol management\n*   Metoprolol Tartrate \u2013 for blood pressure management\n*   Acetaminophen \u2013 for pain relief\n\nTherefore, none of the listed medications were *not* part of his discharge prescription.\n\nD"
+    },
+    {
+      "question_id": "patient_14_q5",
+      "generated_text": "Let\u2019s analyze the provided text regarding Mr. Havers\u2019 chest X-ray from 04/23/2017. The text states: \u201cA chest X-ray was performed, which revealed a suspicious opacity in the right lower lung field.\u201d This \u201csuspicious opacity\u201d is described as a \u201cpatchy area of reduced transparency with partial obscuration of the heart contour.\u201d This points toward an area of inflammation or consolidation, which is consistent with pneumonia or other lung infiltrates. Pleural effusion, pneumothorax, and nodules are not mentioned. The text concludes with \u201cNo acute findings.\u201d \u2013 but the initial finding is the opacity.\n\nE"
+    },
+    {
+      "question_id": "patient_14_q6",
+      "generated_text": "Let\u2019s analyze the provided text to find the date when Mr. Havers presented with shortness of breath and coughing, leading to the discovery of pulmonary metastasis.\n\nThe text describes a timeline of events:\n*   07/05/2018: Initial presentation at the Center for Rare Metabolic Diseases.\n*   08/14/2018: Shortness of breath and coughing reported.\n*   08/27/2018: Chest X-ray performed revealing a pulmonary opacity.\n*   09/02/2018: Patient followed up.\n*   01/26/2020: Further check-up.\n*   06/14/2019: Second visit.\n*   08/01/2018: The document mentions that he presented to our outpatient clinic.\n\nTherefore, the date when Mr. Havers presented with shortness of breath and coughing, and the discovery of pulmonary metastasis, was 08/14/2018.\n\nC"
+    },
+    {
+      "question_id": "patient_14_q7",
+      "generated_text": "Let's analyze the provided text. The text states: \u201cLab results upon Discharge: **Parameter** **aPTT (Activated Partial Thromboplastin Time)** 30.1 sec. **Reference Range** 25.0-38.0 sec.\u201d\n\nA. 30.1 sec - This matches the result reported in the lab results.\nB. 32.4 sec - Incorrect.\nC. 1.2 - This refers to INR (International Normalized Ratio), not aPTT.\nD. 0.99 INR - This refers to INR, not aPTT.\nE. Not applicable - Incorrect, aPTT was a measured value.\n\n**A**"
+    },
+    {
+      "question_id": "patient_14_q8",
+      "generated_text": "Let's analyze the provided text regarding Mr. Havers' MRI report. The text states: \"\u2026the confluent nodules measured approximately 2.5 cm in diameter.\" Since 2.5 cm is equal to 25 mm, and the text later notes that the nodules had a maximum size of 53 mm, the correct answer must be C.\n\nC"
+    },
+    {
+      "question_id": "patient_14_q9",
+      "generated_text": "Let\u2019s analyze the provided text to determine the correct answer.\n\nThe text describes Mr. Havers\u2019 journey starting with an initial MRI that revealed a suspicious area. Following the MRI, the decision was made to perform an \u201cincisional biopsy\u201d to confirm the diagnosis. This biopsy provided the histological report confirming the presence of a myxoid liposarcoma.\n\nTherefore, the next step taken was an incisional biopsy.\n\nB"
+    },
+    {
+      "question_id": "patient_14_q10",
+      "generated_text": "Let\u2019s analyze the timeline of Mr. Havers\u2019 medications:\n\n1.  **Initial Admission (04/09/2017):** He started on Empagliflozin, Metformin, Atorvastatin, Metoprolol, Aspirin, and Pantoprazole.\n2.  **Postoperative Period:** Enoxaparin was added for anticoagulation after the tumor excision. Acetaminophen was administered for postoperative pain.\n3.  **Discharge (04/23/2017):** The regimen remained consistent with the initial medications.\n\nConsidering this sequence, option C best reflects the chronological order of the medications administered.\n\n**C**"
+    },
+    {
+      "question_id": "patient_14_q11",
+      "generated_text": "Let's analyze the provided text to determine the correct date for the follow-up MRI. The text details several examinations and reports. The key piece of information is that the final report (06/14/2019) states \"On 04/23/2017, a CT scan of the right thigh... revealed no evidence of a suspicious nodular, contrast-affine lesion.\"\n\nTherefore, the correct answer is D.\n\nD"
+    },
+    {
+      "question_id": "patient_14_q12",
+      "generated_text": "Let\u2019s analyze the provided text to determine which muscles were partially resected. The text states: \u201cAfter en bloc tumor excision with removal of the previous biopsy scar, partial resection of the gracilis, sartorius and adductor longus muscles and ligation of the great saphenous vein.\u201d\n\nTherefore, the correct answer is D.\n\nD"
+    },
+    {
+      "question_id": "patient_14_q13",
+      "generated_text": "Let's analyze Mr. Havers' medical history as presented in the provided text.\n\n*   **A. Status post right hip total hip replacement:** This is explicitly mentioned.\n*   **B. Chronic kidney disease:** The text states \u201cChronic renal insufficiency,\u201d which is a form of chronic kidney disease.\n*   **C. Status post appendectomy:** This is explicitly mentioned.\n*   **D. Status post cataract surgery:** This is explicitly mentioned.\n*   **E. Nicotine abuse:** This is explicitly mentioned.\n\nTherefore, chronic kidney disease is not listed as part of his medical history.\n\nB"
+    },
+    {
+      "question_id": "patient_14_q14",
+      "generated_text": "Let's analyze the provided text to determine the grading of Mr. Havers' myxoid liposarcoma. The text states:\n\n\u201cHistopathology:incisional biopsy from a myxoid liposarcoma, Grade 1 according to FNCLCC (Sum score 2 + 0 + 1 = 3)\u201d\n\nFNCLCC grading is a common system for grading liposarcomas. Grade 1 is the lowest grade.\n\nB"
+    },
+    {
+      "question_id": "patient_14_q15",
+      "generated_text": "Let\u2019s analyze the provided text regarding Mr. Havers\u2019 lab results from September 2022. The text includes a table of lab values with their respective results and reference ranges.\n\nLooking at the table, the Creatinine level is 1.07 mg/dL, while the reference range is 0.70-1.20 mg/dL. This value falls below the lower limit of the reference range.\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_14_q16",
+      "generated_text": "Let's review Mr. Havers' medication list from the provided text:\n\n*   Vitamin D3 (Drisdol) \u2013 20,000 IU once a week\n*   Calcium supplements (e.g. Caltrate) \u2013 Aim for a total of 1,500 mg calcium intake/day\n*   Folic acid \u2013 15 mg once daily in the morning\n*   Pantoprazole \u2013 20 mg once daily\n\nRamipril is not listed in the medication list.\n\n**D**"
+    },
+    {
+      "question_id": "patient_14_q17",
+      "generated_text": "Let's analyze the provided text. The surgical procedure described is an \"en bloc tumor excision with removal of the previous biopsy scar, partial resection of the gracilis, sartorius and adductor longus muscles and ligation of the great saphenous vein.\u201d This clearly states that the great saphenous vein was ligated.\n\nC"
+    },
+    {
+      "question_id": "patient_14_q18",
+      "generated_text": "Let's analyze the provided text. The text states: \u201cLab results upon Discharge: **Parameter** Prothrombin Time (PT) **Results** 120% **Reference Range** \\>78 %\u201d.\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_14_q19",
+      "generated_text": "Let's analyze the provided lab results to determine the most consistent interpretation of the changes between April 2017 and August 2018.\n\n*   **Creatinine:** Increased from 1.07 mg/dL to 1.22 mg/dL \u2013 This represents a modest increase, not a substantial one.\n*   **Hemoglobin & Hematocrit:** Increased from 12.7 g/dL and 28.5% to 10.1 g/dL and 28.5% \u2013 A *decrease* in these values is observed, not an increase.\n*   **C-Reactive Protein:** Decreased from 0.8 mg/dL to 0.6 mg/dL \u2013 This suggests a reduction in inflammation or infection.\n*   **Prothrombin Time & INR:** Increased from 112% to 105% and INR increased from 0.95 to 0.99 \u2013 Both values are slightly elevated, though not dramatically so, and are within an acceptable range.\n*   **MCV:**  The provided lab results do not contain the value of MCV.\n\nConsidering these changes, option A (Worsening renal function) is not supported by the data as the increase in creatinine is minimal. Option B (Dehydration/erythropoiesis) is incorrect because hemoglobin and hematocrit decreased. Option C (Inflammation/infection) is incorrect due to the decreased CRP levels. Option D (Coagulation disorder) is plausible due to slight alterations in PT/INR, but not a primary concern. Option E (Vitamin B12/folate deficiency) is incorrect because MCV is not provided and does not provide information on the possible deficiency.\n\n**D**"
+    },
+    {
+      "question_id": "patient_15_q0",
+      "generated_text": "Let\u2019s analyze the provided text to determine Mr. Davies\u2019 primary diagnosis upon admission in September 2009. The text states: \u201cHe presented at our Center for Rare Metabolic Diseases on 09/01/2009. Diagnoses: Galactosemia, Osteopenia\u201d. Therefore, the primary diagnosis was Galactosemia.\n\nA"
+    },
+    {
+      "question_id": "patient_15_q1",
+      "generated_text": "Let\u2019s analyze the provided patient information. Mr. Davies has galactosemia, a genetic disorder where the body cannot properly process galactose. The key point in his medical history is that his condition is managed through a \u201cdietetically restricted diet\u201d. The other options \u2013 enzyme replacement, gene therapy, regular liver function tests, and bone density measurements \u2013 are not mentioned as primary components of his management strategy.\n\nC"
+    },
+    {
+      "question_id": "patient_15_q2",
+      "generated_text": "Let's analyze the provided text regarding Mr. Davies' symptoms. The text details his complaints leading up to his September 2009 admission.\n\n*   **Daily fevers:** Reported.\n*   **Yellowish-tinged sputum:** Reported.\n*   **Difficulty sleeping due to coughing:** Reported.\n*   **Vomiting:** Not mentioned.\n*   **Weight loss:** Reported.\n\nTherefore, the symptom that was NOT reported is vomiting.\n\nD"
+    },
+    {
+      "question_id": "patient_15_q3",
+      "generated_text": "Let\u2019s analyze the provided text to determine the physical examination finding noted during Mr. Davies\u2019 2009 hospital stay. The text states: \u201cClinically, the patient reported a stable overall condition, although he can become overwhelmed in stressful situations. He follows a lactose-free and low-galactose diet, resulting in his disease-specific laboratory parameters, especially free Galactose, being within therapeutic target ranges. Additionally, there are no signs of liver dysfunction. A mild vitamin D deficiency was noted. His 2018 bone density measurement revealed osteopenia in both femurs, with slight improvement compared to the previous assessment\u2026\u201d\n\nThe text then mentions: \u201c...and no evidence of pneumonia. The patient is in good general condition, with a lean build\u2026  Lung sounds were clear\u2026\u201d It then further specifies \u201c...but he reported a slight discomfort in breathing\u2026\u201d.\n\nThe most relevant finding described as present during the examination is diminished breath sounds on the left base.\n\nA"
+    },
+    {
+      "question_id": "patient_15_q4",
+      "generated_text": "Let's analyze the provided text to determine the treatment Mr. Davies received for his bronchopneumonia in 2009. The text states: \"He received intravenous therapy with Cefuroxime and additional inhalation therapy with Sodium Chloride 0.9%\u201d.\n\nTherefore, the correct answer is B.\n\nB"
+    },
+    {
+      "question_id": "patient_15_q5",
+      "generated_text": "Let\u2019s analyze the provided text to determine the concerning lab finding during Mr. Davies\u2019 2009 hospital stay. The text mentions several lab results, including:\n\n*   Elevated creatinine\n*   Low hemoglobin\n*   Elevated CRP\n*   High white blood cell count\n*   Low platelet count\n\nThe text explicitly states \u201cLaboratory results showed an elevated creatinine level,\u201d indicating this was a concerning finding.\n\nC"
+    },
+    {
+      "question_id": "patient_15_q6",
+      "generated_text": "Let\u2019s analyze the provided text to determine which neuropsychological test Mr. Davies performed poorly on in terms of reaction time.\n\nThe text states: \u201cMr. Davies exhibited a border-line reaction time with poor stability (245 ms, reaction time median for tonic alertness; 52 ms, standard deviation for tonic alertness) in the Divided Attention subtest\u2026\u201d.\n\nTherefore, the correct answer is A.\n\nA."
+    },
+    {
+      "question_id": "patient_15_q7",
+      "generated_text": "Let's analyze the provided text regarding Mr. Davies' neuropsychological testing results. The text states: \u201cMr. Davies demonstrated\u2026reduced perception-based logical thinking (IQ 84), reduced working memory (IQ 77), and significantly reduced processing speed (IQ 68).\u201d It also notes, \u201cIn the Wechsler Memory Scale -- Revised Version, subtests Forward and Backward Digit Span...\u201d. The question specifically asks about memory performance. The text explicitly mentions \u201creduced working memory\u201d and \u201creduced processing speed\u201d as areas of weakness. Processing speed is a component of working memory. Considering the provided options, \u201cD. 30-minute retention\u201d is the most direct reference to the diminished processing speed noted.\n\nD"
+    },
+    {
+      "question_id": "patient_15_q8",
+      "generated_text": "Let's analyze the provided text to find Mr. Davies' bone density T-score in the lumbar spine (L2-4) from his last measurement.\n\nThe text states: \"Lumbar Spine (L2-L4) Bone Density: 1.216 g/cm2 (97% of age-appropriate reference) with a T-score of -0.2\u201d.\n\nTherefore, the answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_15_q9",
+      "generated_text": "The text states: \"Birth weight was 4030 grams.\"\n\nD"
+    },
+    {
+      "question_id": "patient_15_q10",
+      "generated_text": "Let's analyze the provided text to determine the finding in Mr. Davies' abdominal sonography as of the last report.\n\nThe text states: \u201cThe liver remains minimally enlarged without hepatic steatosis. Gallbladder stones persist with concrements showing no signs of irritation or cholestasis. No intrahepatic or extrahepatic cholestasis, and the common bile duct (DHC) is not dilated. Spleen measures 12 cm in pole-to-pole distance, appears homogeneous. The pancreas is not adequately assessable due to intestinal gas interference. Both kidneys are of normal size with no evidence of concrements or suspicious solid masses.\u201d\n\nTherefore, the correct answer is E. Minimal liver enlargement without steatosis.\n\nE"
+    },
+    {
+      "question_id": "patient_15_q11",
+      "generated_text": "Let's analyze the provided text to determine when Mr. Davies was first diagnosed with osteopenia.\n\nThe text mentions bone density measurements taken in:\n*   January 2013 (lumbar spine T-score: -0.8)\n*   January 2018 (lumbar spine T-score: -0.8; left proximal femur T-score: -1.4; right proximal femur T-score: -1.5)\n*   January 2020 (lumbar spine T-score: -0.3; left proximal femur T-score: 0.915; right proximal femur T-score: 0.907)\n\nTherefore, the first diagnosis of osteopenia was in January 2013.\n\nD"
+    },
+    {
+      "question_id": "patient_15_q12",
+      "generated_text": "Let's analyze the 2019 lab results provided in the text. We need to identify a value that is outside the reference range.\n\nLooking at the table, the Creatinine result is 1.07 mg/dL, while the reference range is 0.70-1.20 mg/dL. This value is outside the normal range.\n\nTherefore, the correct answer is E.\n\nE"
+    },
+    {
+      "question_id": "patient_15_q13",
+      "generated_text": "Let's analyze the provided text. The text contains a table of lab results from 01/26/2018. The Taurine EDTA level is listed as 104.7 \u00b5mol/L. The reference range is not explicitly stated in the text, but the information available in the text suggests it\u2019s between 54.0-210.0 \u00b5mol/L. Since 104.7 \u00b5mol/L is above 210.0 \u00b5mol/L, it is above the normal range.\n\nE"
+    },
+    {
+      "question_id": "patient_15_q14",
+      "generated_text": "Let\u2019s analyze the provided text regarding Mr. Davies\u2019 ophthalmological examinations. The text states: \u201cOphthalmological examination showed no abnormalities except for mild myopic astigmatism, for which glasses or contact lenses were recommended.\u201d\n\nTherefore, the consistent finding was myopic astigmatism.\n\nB"
+    },
+    {
+      "question_id": "patient_15_q15",
+      "generated_text": "Let\u2019s analyze the provided patient information. The text states: \u201cPostnatally, there was amnion infection syndrome, followed by hyperbilirubinemia and hepatopathy.\u201d Amnion infection syndrome refers to an infection of the amniotic fluid surrounding the baby during pregnancy. This is a significant complication immediately after birth.\n\n**E**"
+    },
+    {
+      "question_id": "patient_15_q16",
+      "generated_text": "Let\u2019s analyze the provided text regarding Mr. Davies\u2019 bone density measurements. The text states:\n\n*   **2018:** Lumbar Spine T-score: -0.8, Left Proximal Femur T-score: -1.4, Right Proximal Femur T-score: -1.5\n*   **2020:** Lumbar Spine T-score: -0.3, Left Proximal Femur T-score: 0.915, Right Proximal Femur T-score: 0.907\n\nComparing these values, we see that the T-scores for both femurs improved slightly between 2018 and 2020. The lumbar spine also showed an improvement.\n\nTherefore, the correct answer is B.\n\nB"
+    },
+    {
+      "question_id": "patient_15_q17",
+      "generated_text": "Let's analyze the timeline of events presented in the patient's history:\n\n1.  **Birth:** Mr. Davies was born via Cesarean section in 1979.\n2.  **Galactosemia Diagnosis:** He was diagnosed with galactosemia on the 7th day of life.\n3.  **Hyperbilirubinemia and Hepatopathy:** These symptoms occurred shortly after birth, leading to the diagnosis of galactosemia.\n4.  **Lactose-Free Diet:** This dietary intervention was initiated to manage his galactosemia.\n5.  **Appendectomy:** This occurred later in his childhood.\n6.  **Elbow Fracture:** This happened in 2006.\n\nTherefore, the earliest event was the diagnosis of galactosemia, occurring shortly after birth.\n\nA"
+    },
+    {
+      "question_id": "patient_15_q18",
+      "generated_text": "Let\u2019s analyze the creatinine levels provided in the text:\n\n*   **August 2016 (08/14/2018 report):** 1.22 mg/dL\n*   **January 2018 (01/20/2018 report):** 1.10 mg/dL\n*   **May 2018 (05/02/2018 report):** 1.190 g/cm2 (97% of age-appropriate reference) with a T-score of -0.3\n*   **December 2020 (01/12/2020 report):** 1.07 mg/dL\n\nThe creatinine level decreased from 1.22 mg/dL in August 2016 to 1.10 mg/dL in January 2018.\n\nB"
+    },
+    {
+      "question_id": "patient_15_q19",
+      "generated_text": "Let\u2019s analyze the provided radiology reports to determine the chronological order:\n\n1.  **01/12/2020 Abdominal Sonography:** This is the initial abdominal sonography.\n2.  **04/16/2017 Abdominal Sonography:** A follow-up abdominal sonography.\n3.  **04/07/2018 Bone Density Measurement:** Bone density measurement\n4.  **12/01/2020 Bone Density Measurement:** A second bone density measurement.\n5.  **01/20/2015 Abdominal Sonography:** Initial abdominal sonography (earlier than the 04/16/2017 one)\n6.  **03/09/2015 Eye Examination**\n7.  **02/12/2018 Abdominal Sonography**\n8.  **06/14/2019** The patient presented and was assessed.\n\nArranging these in chronological order, we get: 01/12/2020, 04/16/2017, 04/07/2018, 12/01/2020, 03/09/2015, and 02/12/2018.\n\nLooking at the options, the closest match is option B: Abdominal sonography < Bone density measurement < Abdominal Sonography < Abdominal Sonography < Abdominal Sonography <  Abdominal Sonography < Bone density measurement\n\nB"
+    }
+  ]
+}

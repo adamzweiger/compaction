@@ -1,0 +1,110 @@
+{
+  "model_name": "google/gemma-3-12b-it",
+  "article_id": "quality_22958",
+  "question_ids": [
+    "22958_CIJCBUXL_1",
+    "22958_CIJCBUXL_2",
+    "22958_CIJCBUXL_3",
+    "22958_CIJCBUXL_4",
+    "22958_CIJCBUXL_5",
+    "22958_CIJCBUXL_6",
+    "22958_CIJCBUXL_7",
+    "22958_CIJCBUXL_8",
+    "22958_CIJCBUXL_9",
+    "22958_CIJCBUXL_10",
+    "22958_8T1HU0MH_1",
+    "22958_8T1HU0MH_2",
+    "22958_8T1HU0MH_3",
+    "22958_8T1HU0MH_4",
+    "22958_8T1HU0MH_5",
+    "22958_8T1HU0MH_6",
+    "22958_8T1HU0MH_7",
+    "22958_8T1HU0MH_8",
+    "22958_8T1HU0MH_9",
+    "22958_8T1HU0MH_10"
+  ],
+  "question_ids_hash": "c1492076510e837b",
+  "max_new_tokens": 2048,
+  "generations": [
+    {
+      "question_id": "22958_CIJCBUXL_1",
+      "generated_text": "The passage states: \"On the day that the Polish freighter Ludmilla laid an egg in New York harbor...\" This directly identifies Ludmilla as a Polish ship.\n\nD"
+    },
+    {
+      "question_id": "22958_CIJCBUXL_2",
+      "generated_text": "The story begins with a Polish freighter, the *Ludmilla*, laying an egg in New York harbor. The action primarily takes place in New York, with references to CIA headquarters and Braun's business dealings within the city. Poland is mentioned as the origin of the ship, and Michigan isn\u2019t mentioned at all. California isn't mentioned either.\n\nA"
+    },
+    {
+      "question_id": "22958_CIJCBUXL_3",
+      "generated_text": "The text states the \"Ludmilla laid an egg\" and then describes how a timer caused an object to drop from a \"dump-cell\" which is used for \"dangerous cargo...anything that might act up unexpectedly.\" It also mentions the possibility of it being a bomb. Therefore, the \"egg\" refers to an object dropped from the ship, most likely a bomb.\n\nD"
+    },
+    {
+      "question_id": "22958_CIJCBUXL_4",
+      "generated_text": "Here's a breakdown of why the answer is D:\n\n* **A. He is a diver:** The text explicitly states divers were already on the scene before Braun was called.\n* **B. He has a criminal past:** While Braun has a history with the ILA and some questionable dealings, the primary reason for the call isn't his past.\n* **C. He knows how to defuse bombs:** The story makes it clear that Braun doesn't know anything about bombs.\n* **D. He has good intuition:** Dr. Harris states they need an \"expert\" to \"play a hunch,\" and specifically highlights Braun's history as a successful gambler and his ability to make accurate guesses in uncertain situations. Joan also comments on his intuition.\n\nD"
+    },
+    {
+      "question_id": "22958_CIJCBUXL_5",
+      "generated_text": "Here's a step-by-step breakdown of the information to determine the correct answer:\n\n1. **Initial Situation:** The story establishes a situation where a potential bomb has been dropped, and the CIA is investigating.\n2. **Braun's Role:** Dr. Harris brings in Braun because he is known for his ability to make accurate \"hunches\" on long-shot gambles.\n3. **The Reveal:** Towards the end, Dr. Harris explains the true nature of the situation: \u201cWe had our people in Gdynia defuse the thing after it was put on board the ship, but otherwise leave it entirely alone.\"\n4. **The Test:** Harris states that the entire event was a test to see how the CIA would perform under a deadline, and that Braun\u2019s involvement was crucial.\n\nTherefore, Dr. Harris and Dr. Hadamard know that the bomb had already been defused.\n\nB"
+    },
+    {
+      "question_id": "22958_CIJCBUXL_6",
+      "generated_text": "Here's a breakdown to determine the correct answer:\n\n*   **A. He remembers that his wife and children are in a different city.** The text states his fear for his family motivated his hesitation. The resolution isn't that they're elsewhere, but that he's no longer actively in a situation where he fears for them.\n*   **B. He gave Mr. Harris the wrong answer, but it didn't matter.** The story explicitly states Braun's answer was correct and crucial to the situation. This is incorrect.\n*   **C. He realizes he is not in trouble.** The text indicates Braun initially feared potential repercussions for his involvement and the potential consequences of his guess. The final exchange with Harris assures him he is not in trouble.\n*   **D. Working with the CIA makes him feel that he is doing something respectable.** Braun's whole motivation for appearing respectable is revealed as a fa\u00e7ade to assuage his conscience. Working with the CIA doesn't resolve this internal conflict; instead, he seems to acknowledge the irony of his situation.\n\nTherefore, the most fitting reason for his sigh is that he realizes he's no longer in a tense, potentially dangerous situation and isn't facing repercussions.\n\nC"
+    },
+    {
+      "question_id": "22958_CIJCBUXL_7",
+      "generated_text": "Let's analyze the text to determine why this gamble is different for Braun.\n\n*   **A. He is too old and lost his hunches:** The text states his hunches have worked for sixty years. This contradicts this option.\n*   **B. The stakes are too high because his family is at risk:** The text explicitly states, \"If I guess wrong\u2014\" (and then he thinks) \"Then we're all dead ducks. But why should you guess wrong? My wife and my kids are in the city.\" This makes this gamble different because his personal safety and that of his family are directly threatened.\n*   **C. He doesn't have enough information:** While information is always helpful, the text highlights Braun's skill as a gambler \u2013 one who can make a decision with limited information.\n*   **D. He doesn't like to gamble in a time crunch:** The text doesn't present this as a reason; the pressure comes from the stakes involved.\n\nTherefore, the correct answer is B.\n\nB"
+    },
+    {
+      "question_id": "22958_CIJCBUXL_8",
+      "generated_text": "Let's analyze the provided text to determine how Dr. Harris knows Braun.\n\nThe passage states: \"As an undergraduate majoring in social sciences, I\u2019d taken on a term paper on the old International Longshoreman's Association... In those days, Braun had been the business manager of an insurance firm...\" and later \"Hence I was surprised to hear somebody on the docks remark that Braun was in the city over the week end.\"\n\nThis clearly indicates Dr. Harris researched Braun for a term paper during his undergraduate studies.\n\nTherefore, the correct answer is D.\n\nD"
+    },
+    {
+      "question_id": "22958_CIJCBUXL_9",
+      "generated_text": "Let's analyze the provided text to determine why the CIA is interested in Braun's career.\n\n*   **Option A:** The text mentions Braun considering running for Congress, but this is a recent development and not the primary reason for CIA's interest.\n*   **Option B:** Braun donates money to charities, but the text highlights this as a superficial attempt at respectability rather than a genuine philanthropic endeavor.\n*   **Option C:** The text references the Polish freighter *Ludmilla* but doesn't suggest Braun has dealings with the Polish government.\n*   **Option D:** The text explicitly states that Joan views Braun as a \"type study in the evolution of the extra-legal ego\" and notes his behavior as an attempt to reconcile a desire for power and acceptance. This suggests the CIA is tracking him due to his history and personality, which involve skirting legal boundaries.\n\nTherefore, the CIA is interested in Braun's career because he's a professional gambler who operates in a grey area between legal and illegal activities and tries to appear respectable.\n\nD"
+    },
+    {
+      "question_id": "22958_CIJCBUXL_10",
+      "generated_text": "Let's analyze the text to determine Mr. Harris's objective.\n\n* **A. Find the object that was dropped from the ship:** While initially, finding the object is a goal, it quickly becomes secondary to a larger purpose.\n* **B. Save the city from the ticking bomb:** This is a potential consequence, but not the primary goal. Mr. Harris is more concerned with testing procedures.\n* **C. Facilitate a drill to see if the team would be able to stop a real bomb-threat:** The text explicitly states that the whole event was staged to test the team's capabilities under a deadline, simulating a real bomb drop. The bomb was defused in Gdynia beforehand.\n* **D. Evacuate the city before the Polish attack:** There\u2019s no mention of a Polish attack. The situation is a dropped object of unknown nature.\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "22958_8T1HU0MH_1",
+      "generated_text": "Here's a step-by-step breakdown to determine the answer:\n\n1. **Initial Confusion:** The story starts by stating the *Ludmilla* \"laid an egg,\" which is obviously metaphorical and initially misleading.\n2. **CIA's Investigation:** The CIA investigates because they suspect something dangerous was dropped.\n3. **Braun's Identification:** Ultimately, Braun identifies what was dropped as \"a bomb.\"\n4. **The Twist:** The story reveals that the CIA *knew* it was a bomb but had it defused beforehand to test their response time. Therefore, what was dropped was a dud bomb.\n\nD"
+    },
+    {
+      "question_id": "22958_8T1HU0MH_2",
+      "generated_text": "Here's a step-by-step thought process:\n\n1. **Eliminate incorrect options:** Option D is too specific. The CIA does more than just defuse bombs.\n2. **Consider the remaining options:** Option A is incorrect because the text *does* explain what the CIA is, albeit indirectly.\n3. **Analyze option B and C:** The text describes the CIA as \"Civilian Intelligence Associates\" and refers to its role in handling a national security situation (the \"egg\" in the harbor). This aligns with the idea of a civilian organization keeping the country safe. Option C is also a reasonable description, though the story emphasizes the organization's private nature.\n4. **Choose the most accurate option:** While Option C isn't wrong, the text explicitly labels it as a \"civilian\" organization.\n\nC"
+    },
+    {
+      "question_id": "22958_8T1HU0MH_3",
+      "generated_text": "Let's analyze the text to determine how the divers discovered what the object was.\n\n*   **A. They didn't find out:** The text states they initially didn't see anything and were having trouble due to silt. However, they *did* eventually find out. So, this isn't the complete answer.\n*   **B. They unscrewed the top:** This is the key moment. Joan instructs them to unscrew the cap, and after that, they detect radiation, confirming it was a bomb.\n*   **C. They used ESP experiments:** The text mentions ESP experiments but states they weren\u2019t used in this scenario.\n*   **D. They used a Geiger Counter:** They initially used it, but it only showed background radiation, providing no conclusive information.\n\nTherefore, the divers ultimately found out what the object was when Joan instructed them to unscrew the top, which revealed the radiation.\n\nB"
+    },
+    {
+      "question_id": "22958_8T1HU0MH_4",
+      "generated_text": "Let's analyze the provided text to determine who put the bomb on the ship.\n\nThe text states: \"We got word last month from our man in Gdynia that they were going to do it, and that the bomb would be on board the *Ludmilla*.\" Further, \"our people in Gdynia defused the thing after it was put on board the ship, but otherwise leave it entirely alone.\" This clearly indicates that people in Gdynia initially placed the device on the ship.\n\nTherefore, the correct answer is A.\n\nA"
+    },
+    {
+      "question_id": "22958_8T1HU0MH_5",
+      "generated_text": "Let's analyze the provided text to determine why they chose Mr. Braun.\n\n*   **A. He was a good gambler:** The text explicitly states, \"You'll remember we had a deadline on the test... Your intuition for the one-shot gamble was the one thing that bailed us out this time.\" This directly supports his gambling skill being relevant.\n*   **B. He was going to run for Congress:** This is mentioned at the very end, but it is presented as a consequence of the situation, not a reason for his involvement.\n*   **C. We do not get a reason:** This is false; the text provides a clear reason.\n*   **D. His family was in the city so it mattered more:** While Braun's concern for his family initially leads him to refuse, it\u2019s not the *reason* CIA chose him. His expertise is the reason.\n\nTherefore, the primary reason for choosing Braun is his skill as a gambler.\n\nA"
+    },
+    {
+      "question_id": "22958_8T1HU0MH_6",
+      "generated_text": "Let's analyze the provided text to determine why Braun is at peace.\n\n*   **A. He saved his family:** The text states he's concerned about his family and their safety, but it doesn't explicitly say saving them is why he's at peace.\n*   **B. He is free to run for Congress:** He mentions considering running for Congress, but this is presented as a potential future action, not a current source of peace.\n*   **C. He finally has a job:** Braun is already successful and wealthy. He's not seeking a job.\n*   **D. He gets to be valuable and respectable doing what he loves:** The passage emphasizes Braun's desire for respectability and how he's attempted to achieve it through various means. His \"hunches\" being valuable, despite his previous attempts at respectability failing, appears to allow him to be valuable and, arguably, respectable while doing something he\u2019s good at, resolving a conflict that Joan had observed in him. The last line, \"It was, I believe, the sigh of a man at peace with himself,\" supports this interpretation.\n\nTherefore, the best answer is D.\n\nD"
+    },
+    {
+      "question_id": "22958_8T1HU0MH_7",
+      "generated_text": "The story is narrated by a character who refers to himself as \"I.\" The text states \"I was in the central office when the call came through...\" and later \"I buzzed for two staffers...\". Furthermore, near the end of the text, Braun refers to the narrator as \"Andy.\" Therefore, the narrator's name is Andy.\n\nA"
+    },
+    {
+      "question_id": "22958_8T1HU0MH_8",
+      "generated_text": "Let's analyze the provided text to determine why Braun sponsors beginning actresses.\n\nThe text states: \"He's not sexually interested in them\u2014his type never is, because living a rigidly orthodox family life is part of the effort towards respectability. He's backing them to 'pay his debt to society'\u2014in other words, they're talismans to keep him out of jail.\"\n\nThis clearly indicates that Braun's actions are driven by a desire to appease his conscience and appear respectable, not for romantic reasons, financial gain, or his wife's preferences.\n\nD"
+    },
+    {
+      "question_id": "22958_8T1HU0MH_9",
+      "generated_text": "Let's analyze the provided text to determine why the city wasn't evacuated.\n\n*   **A. The CIA members disagreed on what to do.** While there was disagreement (particularly between Anderton and Harris), it wasn't the primary reason for not evacuating. The disagreement was resolved by Harris's authority.\n*   **B. There was not enough time.** The text states they were approaching a deadline, but Harris explicitly prevents evacuation until CIA has a go-ahead. So, time wasn't the sole factor preventing evacuation.\n*   **C. The chaos could have caused more damage.** Harris's reasoning directly states this: \"Or they may want to start a panic for some other reason, any one of fifty possible reasons.\" He believed an evacuation could be exactly what the enemy wanted.\n*   **D. There was no actual danger to civilians.** While it turned out to be a dud, the initial situation presented a potential danger that warranted caution.\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "22958_8T1HU0MH_10",
+      "generated_text": "Here's a step-by-step analysis of the question and the provided text:\n\n1. **The Situation:** Braun is asked to determine if a mysterious object dropped from a ship is a bomb. CIA is conducting a test to see how quickly they can identify such a threat.\n2. **The Stakes:** The text states that if CIA failed to identify the object before a deadline, they would have to evacuate the city. This suggests a devastating consequence if Braun's answer was incorrect.\n3. **Braun's Actual Answer:** Braun says it's a bomb. The text then reveals the object was a dud, part of a planned test by CIA.\n4. **What if he said it wasn't a bomb?:** If Braun had said it *wasn't* a bomb, CIA would have proceeded under the assumption it was harmless. This would have resulted in the city being evacuated when, in reality, it was a live bomb, leading to destruction.\n\nTherefore, the correct answer is:\n\nA"
+    }
+  ]
+}

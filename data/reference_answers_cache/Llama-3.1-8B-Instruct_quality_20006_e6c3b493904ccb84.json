@@ -1,0 +1,100 @@
+{
+  "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+  "article_id": "quality_20006",
+  "question_ids": [
+    "20006_VZW02G1T_1",
+    "20006_VZW02G1T_2",
+    "20006_VZW02G1T_3",
+    "20006_VZW02G1T_4",
+    "20006_VZW02G1T_5",
+    "20006_VZW02G1T_6",
+    "20006_VZW02G1T_7",
+    "20006_VZW02G1T_8",
+    "20006_VZW02G1T_9",
+    "20006_VZW02G1T_10",
+    "20006_RQF3XP3W_1",
+    "20006_RQF3XP3W_2",
+    "20006_RQF3XP3W_3",
+    "20006_RQF3XP3W_4",
+    "20006_RQF3XP3W_5",
+    "20006_RQF3XP3W_6",
+    "20006_RQF3XP3W_7",
+    "20006_RQF3XP3W_8"
+  ],
+  "question_ids_hash": "e6c3b493904ccb84",
+  "max_new_tokens": 2048,
+  "generations": [
+    {
+      "question_id": "20006_VZW02G1T_1",
+      "generated_text": "The author is criticizing the people involved in the scandal for their actions and inactions, suggesting that they are not entirely innocent. The author mentions that some individuals, like Betty Currie and Paul Begala, did not quit their jobs on principle, implying that they should have taken a stand against Clinton's actions. The author also criticizes those who were aware of the scandal but did not speak out, such as Vernon Jordan and Sidney Blumenthal, who spun Clinton's denials without bothering to check if they were true.\n\nThe author does not mention loyalty to Clinton as a requirement for these individuals, so option B is unlikely. Option C is also not relevant, as the author is not criticizing the timing of when they alerted the media. Option D is also not the main point, as the author is not focusing on who knew what and when.\n\nConsidering the author's tone and the criticisms made, the most likely answer is that the author believes the blame falls on those who did not take a principled stance against Clinton's actions, even if they were not directly involved.\n\nA."
+    },
+    {
+      "question_id": "20006_VZW02G1T_2",
+      "generated_text": "The public's role in the scandal is examined in the text. The author suggests that the public is hypocritical, claiming to despise scandals but being fascinated by them. This is indicated by the phrase \"Are secretly fascinated by the sleaziness of it.\" The author also states that the public \"worked hard to break a very important story and investigated the hell out of it,\" implying that the public's obsession with the scandal contributed to the harm caused.\n\n \n\nB"
+    },
+    {
+      "question_id": "20006_VZW02G1T_3",
+      "generated_text": "To determine who was the most innocent involved in this scandal, we need to look at the ratings given by Slate. A lower rating indicates a more negative view of the person's involvement.\n\nThe ratings are as follows:\n- Monica Lewinsky: -2\n- Hillary Clinton: +2\n- Linda Tripp: -7\n- Chelsea Clinton: +10\n\nConsidering these ratings, Chelsea Clinton is the only person with a positive rating of +10, indicating that she is seen as the most innocent in this scandal."
+    },
+    {
+      "question_id": "20006_VZW02G1T_4",
+      "generated_text": "The public's perception of the scandal's responsibility can be inferred from the text by analyzing the ratings given to each party involved. \n\nFirst, the ratings suggest that the public has a strong negative view of Clinton, with a rating of -6, indicating that they hold him accountable for the scandal. \n\nNext, the ratings of other individuals involved in the scandal, such as Monica Lewinsky, the media, and Hillary Clinton, do not have a rating as low as Clinton's, indicating that the public does not hold them as responsible for the scandal. \n\nThe public's rating of the media is -8, indicating a negative view, but this is due to their perceived excessive and unforgiving coverage of the scandal, rather than their role in causing it. \n\nConsidering these points, the public's perception of the scandal's responsibility seems to place the blame squarely on Clinton.\n\n**A**"
+    },
+    {
+      "question_id": "20006_VZW02G1T_5",
+      "generated_text": "She knew what a lech he was, yet always protected him. \nShe may have always known truth about Lewinsky, yet still lied to protect Bill. \nShe chose aggressive, political strategy over contrition.\n\nShe chose to protect her husband over speaking out against him, despite possibly knowing the truth about his affair with Lewinsky.\n\nD"
+    },
+    {
+      "question_id": "20006_VZW02G1T_6",
+      "generated_text": "The public's rating of Monica Lewinsky is -9, indicating a strong negative view of her. The text lists several reasons for this, including her seducing a married man, damaging and endangering the presidency, lying frequently, and blabbing her \"secret\" affair to many people. \n\nThe text does not specifically mention that the public faults Monica for embarrassing the nation or hurting Chelsea. While it does mention that her affair damaged the presidency, this is framed as one of her negative actions, not the reason for the public's negative view of her.\n\nThe text does mention that Monica got caught, but this is presented as one of the consequences of her actions, not the primary reason for the public's negative view of her.\n\nThe text does mention that Monica blabbed her \"secret\" affair to many people, which is listed as one of her negative actions. However, the text also notes that it was her own loquaciousness that made it possible for her to be dragged into the scandal.\n\nBased on this analysis, the most likely reason for the public's negative view of Monica is that she told too many people about her affair.\n\nC"
+    },
+    {
+      "question_id": "20006_VZW02G1T_7",
+      "generated_text": "The text states that Linda Tripp \"betrayed her 'friend'\" and also \"tried to score a book deal off sex gossip and other people's distress.\" These points are directly mentioned as reasons for the public's negative perception of her. \n\nD"
+    },
+    {
+      "question_id": "20006_VZW02G1T_8",
+      "generated_text": "Step 1: The question is asking for one of Jessie Jackson's \"minuses\" in relation to the issue.\nStep 2: We need to look at the information provided in the text about Jessie Jackson.\nStep 3: According to the text, Jessie Jackson revealed Clinton family troubles immediately after his pastoral visit.\nStep 4: This action could be seen as a negative, as it might be considered a breach of confidentiality or a way to gain media attention.\n\nB"
+    },
+    {
+      "question_id": "20006_VZW02G1T_9",
+      "generated_text": "To find the correct answer, let's analyze the given information:\n\nThe text mentions that Mike McCurry has a \"plus\" in the following sentence: \"Pluses: a) Was clearly dismayed by the entire scandal and his role in it.\"\n\nThis sentence indicates that McCurry was unhappy with the scandal and his involvement in it, which is the opposite of option A. It also mentions that he was part of the scandal defense, which suggests that he did his best to defend Clinton, making option B a possibility. However, it doesn't mention speaking out against Monica or quitting his position.\n\nGiven this information, the correct answer is:\n\nB"
+    },
+    {
+      "question_id": "20006_VZW02G1T_10",
+      "generated_text": "George Stephanopoulos was aware of Clinton's womanizing behavior since 1992, but he helped cover it up and didn't take responsibility for the lies Clinton told then. \n\nHe was hypocritical for \"discovering\" in 1998 that Clinton is a lying dog, when he had known that Clinton was a lech in 1992. \n\nSo, the correct answer is B."
+    },
+    {
+      "question_id": "20006_RQF3XP3W_1",
+      "generated_text": "To determine the correct answer, let's analyze the rankings. \n\nThe article provides a rating scale from -10 to +10, with ratings below zero indicating a \"net miscreant\" and ratings above zero indicating a \"sympathy card.\" The ratings are given for 31 key players in the Flytrap scandal.\n\nLooking at the list, the individuals and groups are ranked from least liked to most liked, as indicated by their ratings. The lowest rating is -9, which is given to Bill Clinton, Monica Lewinsky, and Kenneth Starr, and the highest rating is +10, which is given to Chelsea Clinton.\n\nTherefore, the correct answer is:\n\nC"
+    },
+    {
+      "question_id": "20006_RQF3XP3W_2",
+      "generated_text": "The article mentions loyalty as a factor in evaluating the characters in the scandal, but it does not consistently view loyalty as a good or bad thing. In some cases, loyalty is seen as a positive trait (e.g., Vernon Jordan's loyalty to the president is considered a minus, but George Stephanopoulos's disloyalty is also seen as a negative), while in other cases, it is seen as a negative trait (e.g., James Carville's loyalty to Clinton is considered a minus). This suggests that loyalty or lack thereof can be seen as a plus or minus depending on the context.\n\n \nD"
+    },
+    {
+      "question_id": "20006_RQF3XP3W_3",
+      "generated_text": "The article discusses the public's perception of various individuals involved in the scandal and provides a scorecard rating for each of them. It highlights the perceived double standards and hypocrisy in how the public views these individuals, particularly in comparison to Monica Lewinsky.\n\n \nC"
+    },
+    {
+      "question_id": "20006_RQF3XP3W_4",
+      "generated_text": "The article mentions Linda Tripp's actions, and option D, \"Discussed the scandal with others,\" is one of her minuses. However, options A, B, and C are not listed as minuses for anyone in the article."
+    },
+    {
+      "question_id": "20006_RQF3XP3W_5",
+      "generated_text": "The article lists the pluses and minuses for various individuals involved in the scandal. \n\nFor option C, \"Asked Clinton to be open about his wrongdoings,\" this is not explicitly listed as a plus in the ratings."
+    },
+    {
+      "question_id": "20006_RQF3XP3W_6",
+      "generated_text": "To compare and contrast the overall assessments of Hillary Clinton and Chelsea Clinton, let's analyze the information provided.\n\nHillary Clinton's rating is +2, which indicates that she is viewed with some sympathy. The reasons for this sympathy include being lied to, betrayed, and cuckolded by her husband, and being personally humiliated. However, her rating is not the highest, suggesting that she is not viewed as entirely innocent or entirely sympathetic.\n\nChelsea Clinton's rating is +10, which indicates that she is viewed with a great deal of sympathy. The reasons for this sympathy include being humiliated and embarrassed by her father's misbehavior, having her family problems paraded before the world in a way they should not be, being endlessly psychologized by the media, and having her summer vacation ruined.\n\nThe key difference between the two is that Hillary Clinton is viewed as having made a \"Faustian bargain\" by protecting her husband, which reduces her sympathy rating. Chelsea Clinton, on the other hand, is viewed as an innocent victim of her father's actions.\n\nGiven this analysis, the correct answer is:\n\nD"
+    },
+    {
+      "question_id": "20006_RQF3XP3W_7",
+      "generated_text": "To determine the correct order, we need to look at the Slate ratings for each individual.\n\n- Bob Barr has a rating of -5\n- James Carville has a rating of -5\n- Lanny Davis has a rating of -2\n- Erskine Bowles has a rating of +4\n\nSince Bob Barr and James Carville have the same rating, we can start with them. Then, we can compare Lanny Davis and Erskine Bowles. \n\nThe order from most reprehensible to least reprehensible would be: Bob Barr, James Carville, Lanny Davis, Erskine Bowles\n\nSo, the correct option is:\n \nD"
+    },
+    {
+      "question_id": "20006_RQF3XP3W_8",
+      "generated_text": "To determine the correct order from least reprehensible to most reprehensible, we need to look at the Slate ratings. \n\nThe Secret Service has a rating of +8, which is the highest rating among the options. \n\nThe Clinton Cabinet has a rating of +3, which is lower than the Secret Service but still relatively high.\n\nHillary Clinton has a rating of +2, which is lower than the Clinton Cabinet.\n\nDavid Kendall has a rating of -1, which is lower than Hillary Clinton.\n\nSo, the correct order from least reprehensible to most reprehensible is: Secret Service, The Clinton Cabinet, Hillary Clinton, David Kendall.\n\n**C**"
+    }
+  ]
+}

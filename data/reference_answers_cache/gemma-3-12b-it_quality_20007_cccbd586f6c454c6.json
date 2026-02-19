@@ -1,0 +1,105 @@
+{
+  "model_name": "google/gemma-3-12b-it",
+  "article_id": "quality_20007",
+  "question_ids": [
+    "20007_RZDMZJYW_1",
+    "20007_RZDMZJYW_2",
+    "20007_RZDMZJYW_3",
+    "20007_RZDMZJYW_4",
+    "20007_RZDMZJYW_5",
+    "20007_RZDMZJYW_6",
+    "20007_RZDMZJYW_7",
+    "20007_RZDMZJYW_8",
+    "20007_RZDMZJYW_9",
+    "20007_RZDMZJYW_10",
+    "20007_5OCOFL2D_1",
+    "20007_5OCOFL2D_2",
+    "20007_5OCOFL2D_3",
+    "20007_5OCOFL2D_4",
+    "20007_5OCOFL2D_5",
+    "20007_5OCOFL2D_6",
+    "20007_5OCOFL2D_7",
+    "20007_5OCOFL2D_8",
+    "20007_5OCOFL2D_9"
+  ],
+  "question_ids_hash": "cccbd586f6c454c6",
+  "max_new_tokens": 2048,
+  "generations": [
+    {
+      "question_id": "20007_RZDMZJYW_1",
+      "generated_text": "Let's analyze each option:\n\n*   **A. They know Clinton cheats on his wife:** While some people believed Clinton was unfaithful, this doesn't explain *why* they considered the specific story untrue. Belief in infidelity doesn't automatically invalidate a particular claim.\n*   **B. They were Clinton-haters:** Being a \"Clinton-hater\" might make someone *want* the story to be true, or to believe anything negative about him. It doesn't inherently mean they thought the story was false.\n*   **C. He could not have gotten back home without being found out:** This aligns directly with the text. The passage details the security measures in place\u2014Secret Service protection, gate checks, etc.\u2014that would make such a clandestine return highly improbable. This is the core reason for disbelief.\n*   **D. It was published by the Washington Times:** The publication doesn't inherently make a story untrue. While the source might be considered, the text focuses on the logistical impossibilities of the scenario.\n\nTherefore, the main reason the story was deemed untrue was due to the logistical challenges of Clinton circumventing security.\n\nC"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_2",
+      "generated_text": "Let's analyze each option based on the provided text:\n\n*   **A. Their staff did not know:** The text states that many people *did* know about Kennedy's affairs (drivers, aides, etc.). So, this isn't correct.\n*   **B. They always tried to hide it well:** The text mentions Kennedy \"hardly bothered to hide his conquests,\" and that reporters were aware but didn't publish. This option is partially true, but not the primary reason.\n*   **C. The secret service budget was small:** The text directly contrasts the smaller Secret Service of past eras with the significantly larger and more vigilant Secret Service of Clinton's time. This is a key factor.\n*   **D. The reporters never found out:** The text explicitly states that reporters *did* know, or strongly suspected, but didn't publish stories. This is incorrect.\n\n\n\nTherefore, the most accurate answer is C.\n\nC"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_3",
+      "generated_text": "Let's analyze each option based on the provided text:\n\n*   **A. They suspected it but did not want to print this kind of story:** The text explicitly states, \"Kennedy conducted his affairs brazenly because he trusted reporters not to write about them. White House journalists knew about, or at least strongly suspected, Kennedy's infidelity, but never published a story about it.\" This aligns perfectly with the explanation.\n*   **B. They knew about it but felt threatened:** The text doesn't mention any threats or coercion. It focuses on a tacit agreement not to publish.\n*   **C. They suspected it but did not know for sure:** The text says they \"knew about, or at least strongly suspected,\" implying a reasonable degree of certainty.\n*   **D. They never suspected it:** This is directly contradicted by the text.\n\nTherefore, the most accurate answer is A.\n\n\n\nA"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_4",
+      "generated_text": "Let's analyze each option based on the provided text:\n\n*   **A. Only the East Wing:** The text mentions the East Wing but states that the president would pass Secret Service guards while walking through it. So, it's not the *only* feasible location.\n*   **B. Only the private quarters:** The text explicitly identifies the private quarters (second and third floors) as the *only* place where the president can have uninterrupted, \"safe\" sex.\n*   **C. Only the oval office, bowling alley, or East Wing:** The text specifically states liaisons in the Oval Office, bowling alley, or East Wing are \"unimaginable.\"\n*   **D. Only the private quarters or the office restroom:** The article states the Oval Office bathroom is the only other place besides the private quarters where liaisons are possible, but it suggests this is only if the president is an exhibitionist or lunatic, making this option incorrect.\n\nTherefore, the correct answer is the one that aligns with the text's assertion that the private quarters are the *only* truly safe location.\n\nB"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_5",
+      "generated_text": "Let's analyze each option based on the provided text:\n\n*   **A. Through the service elevator:** The text mentions a variation of this, involving the East Wing elevator, but emphasizes multiple checkpoints involving Secret Service and ushers. It's not a truly \"sneaky\" route.\n*   **B. Through the Oval Office:** The text explicitly states liaisons in the Oval Office are \"unimaginable\" due to constant potential for interruption.\n*   **C. Through the tunnel:** The text states the tunnel is \"too well-guarded\" and would attract too much attention.\n*   **D. Through the gate:** The text details a scenario where the president arranges for a visitor to enter through the East gate, going through security checks, but it's presented as a controlled, albeit risky, method.\n\nConsidering the text's discussion of security and the desire for discretion, entering through the gate with pre-arranged protocols (even with risks) seems the most plausible, albeit still difficult, method.\n\nA"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_6",
+      "generated_text": "Let's analyze each option based on the provided text:\n\n*   **A. They will not record the visit in their logs:** The text states that the visit *would* be recorded in the Secret Service log, though it wouldn't be public during the administration. So, this is incorrect.\n*   **B. There is no way he can avoid it:** The text specifically states that theoretically, a president *could* refuse all Secret Service protection, but it would be \"far more trouble than it's worth.\" This strongly suggests avoiding it is difficult, aligning with this option.\n*   **C. The agents will drive the car for him:** While agents would drive, the core reason for taking them isn't solely for transportation; it\u2019s about security and discretion within the constraints of the current security environment.\n*   **D. He would have to notify a cabinet member to get out of it:** The text doesn't mention needing to notify a cabinet member to avoid Secret Service protection.\n\nTherefore, the best answer is that the president chooses to have agents accompany him because it's practically unavoidable given the heightened security measures.\n\n\n\nB"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_7",
+      "generated_text": "Let's analyze each option based on the provided text:\n\nA. The agents may refuse to go with him: The text states the shift leader might \"grumble, but accepts the conditions,\" suggesting refusal isn't the primary risk.\n\nB. He has to inform the head of the secret service: The text explicitly states that refusing all Secret Service protection would require informing the head of the Secret Service and the Secretary of the Treasury, which is \"far more trouble than it's worth,\" so this isn't the risk being described.\n\nC. The agents will record the visit and make it public: The text mentions the visit is recorded in the Secret Service log, but it's not publicly released during the administration. Also, agents are expected to maintain discretion and leaks could cost them their jobs.\n\nD. People living near the woman might notice the agents: The text explicitly states that neighbors might notice the agents lurking outside the house, which could lead to suspicion and potential exposure.\n\nTherefore, the correct answer is D.\n\nD"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_8",
+      "generated_text": "Let's analyze each scenario to determine which involves the fewest people knowing:\n\n*   **A. The White House Sneak:** This involves gate guards, ushers, Secret Service agents, maids, and potentially other staff. It's a significant number.\n*   **B. The \"Off-the-Record\" Visit:** This involves two Secret Service agents, their shift leader, and potentially gate guards and neighbors. Still a considerable number.\n*   **C. Camp David Assignation:** This involves Secret Service agents, Navy/Marine personnel at Camp David, and other guests. The number of people potentially aware increases significantly due to the larger group involved.\n*   **D. The Hotel Shuffle:** This involves the Secret Service agents guarding the hotel floor and the president's personal aide. This is the smallest group involved.\n\nTherefore, the Hotel Shuffle scenario involves the fewest people knowing.\n\nD"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_9",
+      "generated_text": "The passage explicitly mentions that staffers from Clinton, Bush, Reagan, and Ford White Houses provided insights into the logistics of presidential adultery. Carter is specifically contrasted as a president who \"lust[ed] in his heart\" and didn't engage in adultery. Therefore, Carter's staffers did not contribute to explaining how adultery could be possible.\n\nB"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_10",
+      "generated_text": "The text specifically mentions Kennedy's assistants performing the task of procuring women for him, stating \"Kennedy's assistants performed this task dutifully.\" While the text mentions Clinton's potential for adultery, it doesn't detail staffers actively bringing women to him. Harding is not mentioned in this context.\n\nB"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_1",
+      "generated_text": "Let's analyze each option based on the provided text:\n\n*   **A:** The text explicitly states, \"Historically, presidential adultery is common. Warren Harding cavorted with Nan Britton and Carrie Phillips. Franklin Roosevelt 'entertained' Lucy Rutherford...\" This directly contradicts option A.\n*   **B:** The text argues the *opposite*. It emphasizes how much more robust the Secret Service is now compared to Kennedy's time, stating it's \"impossible\" to evade them.\n*   **C:** The text outlines four specific scenarios (The White House Sneak, The \"Off-the-Record\" Visit, The Camp David Assignation, and The Hotel Shuffle) detailing how Clinton *could* have had an affair. This aligns perfectly with the option.\n*   **D:** The text concludes that it would be \"extremely risky\" and \"disastrous\" to have an affair, implying it's difficult but not entirely impossible, contradicting this statement.\n\n\n\nC"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_2",
+      "generated_text": "The article mentions three other presidents known to have had affairs: Warren Harding, Franklin Roosevelt, and John F. Kennedy.\n\nD"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_3",
+      "generated_text": "Let's analyze the text to determine the key differences between Kennedy's and Clinton's situations regarding potential affairs.\n\n*   **Option B:** The text states Kennedy was unfaithful, so this is incorrect.\n*   **Option D:** The text explicitly states Clinton \"slavishly emulates JFK in every other way, he'd be a fool to steal Kennedy's MO d'amour,\" meaning there were significant differences.\n*   **Option C:** The text highlights that Kennedy \u201chardly bothered to hide his conquests\u201d and that those who knew about it included many people\u2014aides, drivers, guards, staff, etc. It contrasts this with the modern environment where secrecy is much more critical.\n*   **Option A:** This aligns with the text's description of Kennedy's behavior - a lack of concern for discretion.\n\nTherefore, the most accurate answer is A.\n\nA"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_4",
+      "generated_text": "The passage explicitly states that according to Judith Campbell, a Kennedy mistress, those who knew about the affair included: Kennedy's personal aides and secretary, White House drivers, White House gate guards, White House Secret Service agents, White House domestic staff, most of Campbell's friends, a lot of Kennedy's friends, and several Kennedy family members. This aligns with option D.\n\nD"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_5",
+      "generated_text": "Let's analyze each option based on the provided text:\n\n*   **A:** The text explicitly states Kennedy was known for his affairs, so this option is incorrect.\n*   **B:** The text does not mention any committee being employed after Kennedy's death to monitor presidential personal lives.\n*   **C:** The text doesn\u2019t indicate Kennedy created any protocol for the White House staff.\n*   **D:** The text states that the Secret Service has significantly expanded since Kennedy's time (fewer than 500 agents vs. over 4,500, larger budget). This makes it much harder for a president to evade protection.\n\nTherefore, the correct answer is D.\n\nD"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_6",
+      "generated_text": "Let's analyze the options based on the provided text:\n\n*   **A. He had none to worry about.** The text explicitly states Kennedy *did* have indiscretions, so this is incorrect.\n*   **B. Everyone feared him, so they did not say anything about anything he did.** While Kennedy was charismatic, the text doesn't suggest fear motivated silence. It describes a more nuanced agreement.\n*   **C. The media was not interested in things like that when Kennedy was in office.** This is incorrect. The text states the media *knew* or suspected but didn't report.\n*   **D. He trusted the media to not report things like that about him.** The text states Kennedy \"trusted reporters not to write about them.\" This aligns directly with the passage's explanation.\n\n\n\nD"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_7",
+      "generated_text": "Let's analyze each option based on the article:\n\n*   **A. No, the President is actually video recorded 24/7 for safety issues.** The article doesn't mention 24/7 video recording. It highlights the extensive Secret Service presence and procedures.\n*   **B. Yes, they are not watched every second of every day. They have to figure out the window of opportunity and use it.** This aligns with the article's argument that while security is tight, there are opportunities to exploit, albeit risky ones. The scenarios presented illustrate finding those \"windows of opportunity.\"\n*   **C. No, there is no way that NO ONE will know, but they can keep the number small if they plan things just right.** The article states that an affair is \"improbable, but\u2014take heart, Clinton-haters\u2014it's not impossible,\" implying that a very limited number of people could be involved.\n*   **D. Yes, all they have to do is keep their mouth shut.** While discretion is vital, this is an oversimplification. The article emphasizes the numerous security measures and potential witnesses that make secrecy exceptionally difficult.\n\nOption B and C are both plausible, but C is a more accurate representation of the article\u2019s final conclusion\u2014it's unlikely to be completely secret but can be done with a tight circle.\n\nB"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_8",
+      "generated_text": "Let's analyze each option based on the provided text:\n\n*   **A:** The text explicitly states this scenario: \"He invites a group of friends and staffers\u2014including his paramour but not his wife\u2014to spend the weekend at Camp David...\". This aligns perfectly with the text.\n*   **B:** The text mentions risks associated with this scenario, but doesn't suggest it's entirely unfeasible or that it's impossible for the media and wife to find out.\n*   **C:** The text does not suggest relying on his wife being occupied elsewhere.\n*   **D:** While Navy and Marines are present, the text presents it as a logistical element, not a means of shielding him from his wife.\n\nTherefore, the best answer is A.\n\nA"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_9",
+      "generated_text": "Let's analyze each option based on the provided text:\n\n*   **A. Make sure that he pays off anyone who is involved or sees any indiscretions.** The text explicitly states that leaks get people fired, not bribed. This isn't the primary deterrent.\n*   **B. Simply have an affair and forget about the coverup.** The article emphasizes the significant risks and difficulties of a modern presidential affair, making this option highly improbable.\n*   **C. Get his wife's permission, and the rest does not matter.** This is not addressed in the article at all, and relies on a scenario entirely outside the logistics of secrecy.\n*   **D. To have a conjoining room with an aid, have the woman go to the aid's room, then come through the conjoining door. When the evening is over, she goes back the way she came.** The text explicitly describes this as \"the cleverest strategy\" and states it \"cuts out the Secret Service.\" It minimizes exposure to Secret Service agents and other staff.\n\nTherefore, option D is the most \"foolproof\" plan according to the article.\n\nD"
+    }
+  ]
+}

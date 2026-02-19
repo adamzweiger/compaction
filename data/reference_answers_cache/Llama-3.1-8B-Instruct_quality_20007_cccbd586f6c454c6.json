@@ -1,0 +1,105 @@
+{
+  "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+  "article_id": "quality_20007",
+  "question_ids": [
+    "20007_RZDMZJYW_1",
+    "20007_RZDMZJYW_2",
+    "20007_RZDMZJYW_3",
+    "20007_RZDMZJYW_4",
+    "20007_RZDMZJYW_5",
+    "20007_RZDMZJYW_6",
+    "20007_RZDMZJYW_7",
+    "20007_RZDMZJYW_8",
+    "20007_RZDMZJYW_9",
+    "20007_RZDMZJYW_10",
+    "20007_5OCOFL2D_1",
+    "20007_5OCOFL2D_2",
+    "20007_5OCOFL2D_3",
+    "20007_5OCOFL2D_4",
+    "20007_5OCOFL2D_5",
+    "20007_5OCOFL2D_6",
+    "20007_5OCOFL2D_7",
+    "20007_5OCOFL2D_8",
+    "20007_5OCOFL2D_9"
+  ],
+  "question_ids_hash": "cccbd586f6c454c6",
+  "max_new_tokens": 2048,
+  "generations": [
+    {
+      "question_id": "20007_RZDMZJYW_1",
+      "generated_text": "The story was about a former FBI agent describing Clinton slipping past his Secret Service detail at night to meet a woman. \n\nPeople questioned the story because they knew the Secret Service detail closely shadows the president, making it impossible for him to slip past them. \n\nClinton could not have gotten back home without being found out because the guards check all cars at the gate, especially those arriving at 4 a.m.\n\nA is not the reason people doubted the story, as it's the story itself that's being questioned, not the fact that Clinton cheats on his wife. \n\nB is not the reason, as Clinton-haters are not the ones who debunked the story, but rather people who know about White House security.\n\nD is not the reason, as the publication of the story in the Washington Times is not the reason it was debunked.\n\nSo, the correct answer is: C"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_2",
+      "generated_text": "To determine the correct answer, let's consider each option step by step:\n\n1. Previous presidents were able to get away with adultery because they had a more trusting relationship with the press, which didn't report on their personal affairs.\n2. While hiding was not always their primary concern, it was indeed easier for them to keep their affairs private.\n3. The Secret Service budget was not mentioned as a reason for them getting away with adultery.\n4. The text does not suggest that the reporters never found out; it implies they knew but chose not to report on it.\n\nBased on this analysis, the correct answer is: B"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_3",
+      "generated_text": "The passage states that White House journalists knew about, or at least strongly suspected, Kennedy's infidelity, but never published a story about it. This suggests that the press had knowledge of the affair, but chose not to report it.\n\n \nA"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_4",
+      "generated_text": "The article states that the private quarters, a.k.a. \"the residence,\" occupy the second and third floors of the White House. Secret Service agents guard the residence's entrances on the first floor and ground floors, but the first family has privacy in the quarters themselves. Maids and butlers serve the family there, but the president and first lady ask them to leave when they want to be alone. \n\nThe article also mentions that the president and his friend get comfortable in one of the 14 bedrooms (or, perhaps, the billiard room) in the private quarters. \n\nTherefore, the president can meet a woman in the private quarters.\n\nB"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_5",
+      "generated_text": "The article discusses the various ways a president might sneak a woman into the White House. \n\nThe service elevator is not mentioned as a viable option, but it's not ruled out either. The Oval Office is not a suitable place for a discreet meeting, as it's not private. The tunnel between the White House and the Treasury Department is too well-guarded and would attract attention. \n\nThe article suggests that the best way for a president to sneak a woman into the White House is through the East gate, where the president can invite her to the private quarters without being detected by the press or many people. \n\nD"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_6",
+      "generated_text": "To answer this question, let's consider the context and options:\n\n1. The president wants to meet a woman in secret.\n2. The president cannot avoid having Secret Service agents accompany him, as they are responsible for his protection.\n\nConsidering these points, the reason the president would choose to let agents go with him is that it is a necessary part of his protection detail, and he cannot avoid it.\n\nB"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_7",
+      "generated_text": "The president asks his Secret Service detail to take him on an \"off-the-record\" trip, which means they have to drive him to a woman's house without the press knowing. They might be suspicious, but they would still have to follow the president's orders. \n\nThe president requests two agents and an unobtrusive sedan, which suggests that they are trying to keep the visit private. \n\nThe risks mentioned in this scenario are: \n\n- Gate guards may suspect something fishy when they see the car. \n- A reporter or passer-by could spy the president as the car enters and exits the White House. \n- The friend's neighbors might spot him, or they might notice the agents lurking outside her house. \n- A neighbor might call the police to report the suspicious visitors.\n\nConsidering these risks, the correct answer is: \nD"
+    },
+    {
+      "question_id": "20007_RZDMZJYW_8",
+      "generated_text": "Let's break down each scenario:\n\nA. White House Sneak: The president's personal aides, the Secret Service agents, the White House guard, the usher, and the maid would know about the visit.\n\nB. Visiting the woman: The woman herself would know, as well as the Secret Service agents, the guard, the usher, and the maid.\n\nC. Camp David: The Secret Service agents on duty, the president's friends and staffers, the Navy and Marine personnel at Camp David, and the other guests would know.\n\nD. Hotel Shuffle: The Secret Service agents, the president's personal aide, the woman, and possibly the posted Secret Service agents might know.\n\nConsidering the number of people involved, the Hotel Shuffle (D) seems to involve the fewest people knowing about the visit."
+    },
+    {
+      "question_id": "20007_RZDMZJYW_9",
+      "generated_text": "To find the correct answer, let's analyze the text: \n\nThe text mentions that top aides from recent administrations are adamant that the Secret Service never lets the president escape its protection. It then lists examples of the presidents of the administrations of Clinton, Bush, Reagan, and Ford, indicating that aides from these administrations agree that the Secret Service protects the president.\n\nHowever, it does not mention any aides from Carter's administration agreeing with this statement. \n\nTherefore, the answer is the one president not included in the list of administrations mentioned.\n\nB."
+    },
+    {
+      "question_id": "20007_RZDMZJYW_10",
+      "generated_text": "The text states that John F. Kennedy's assistants \"pandered\" for him, meaning they helped find and bring in women for him. \n\nThe text does not mention Clinton's aides doing the same. It only mentions a former Clinton aide stating that there has been a tendency to have no good-looking women on the staff to protect the president from scandal.\n\nThe text does mention that Kennedy seduced women on the White House staff, including Jackie's press secretary, but it does not specifically state that his assistants brought women to him.\n\nThe text does not mention Clinton's aides bringing women to him, and it does not mention Harding's aides in this context.\n\nTherefore, the correct answer is B."
+    },
+    {
+      "question_id": "20007_5OCOFL2D_1",
+      "generated_text": "The text does not support option A, as it mentions several presidents who had affairs while in the White House. \n\nThe text contradicts option B, as it explains that the Secret Service has a large payroll and budget, and that they guard the president at all times.\n\nThe text supports option C, as it lists four possible scenarios for a president to have an affair without the world finding out, including The White House Sneak, The \"Off-the-Record\" Visit, The Camp David Assignation, and The Hotel Shuffle.\n\nThe text supports option D, as it explains that it would be extremely inconvenient, extremely risky, and potentially disastrous for a president to have an affair without the Secret Service knowing.\n\n**C**"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_2",
+      "generated_text": "The article mentions Warren Harding, Franklin Roosevelt, and John F. Kennedy as examples of presidents who had affairs while in office.\n\nThe article does not mention any other presidents in this context.\n\nTherefore, the correct answer is C."
+    },
+    {
+      "question_id": "20007_5OCOFL2D_3",
+      "generated_text": "Kennedy's situation and Clinton's situation differ in the level of discretion and the number of people involved. Kennedy was known to be brazen and didn't seem to care who knew about his affairs, whereas Clinton's situation would require a high level of secrecy due to the increased scrutiny of the media and the Secret Service.\n\n \nC"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_4",
+      "generated_text": "Let's break it down step by step:\n\n1. The article mentions that Kennedy's mistress, Judith Campbell, wrote about their affair in her autobiography.\n2. It's stated that those who knew about their affair included Kennedy's personal aides and secretary.\n3. The article also mentions that White House drivers, White House gate guards, White House Secret Service agents, White House domestic staff, many of Campbell's friends, a lot of Kennedy's friends, and several Kennedy family members were aware of the affair.\n\nConsidering these points, the correct answer is:\n\nD"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_5",
+      "generated_text": "Let's analyze the information:\n\n1. Kennedy's affairs were well-known, but there's no evidence that he created a committee to monitor future presidents.\n2. Kennedy's affairs were not the reason for a significant increase in the number of Secret Service agents.\n3. Kennedy's actions did not lead to a protocol for the White House staff to follow regarding presidential affairs.\n\nBased on the information, Kennedy's actions did not directly impact the security measures in place for future presidents, so the correct answer is not C. The increase in the number of Secret Service agents occurred after the Kennedy era, so D is incorrect. The article does not mention a committee to monitor presidents' personal lives after Kennedy, so B is also incorrect. \n\nA is the most plausible answer, as it states that Kennedy was a faithful man, which implies that he did not make it more difficult for Clinton to have an affair by setting a precedent."
+    },
+    {
+      "question_id": "20007_5OCOFL2D_6",
+      "generated_text": "To determine the correct answer, let's analyze the given information:\n\n1. The article states that Kennedy hardly bothered to hide his conquests.\n2. It mentions that those who knew about his affairs included his personal aides and secretary, White House drivers, White House gate guards, White House Secret Service agents, White House domestic staff, his friends, and several family members.\n3. The article states that White House journalists knew about or suspected Kennedy's infidelity but never published a story about it.\n\nConsidering this information, we can deduce that Kennedy's affairs were not kept secret because he did not try to hide them, and the media chose not to report on them. Therefore, the correct answer is:\n\nD"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_7",
+      "generated_text": "The article explains that the White House is heavily guarded by the Secret Service, with over 100 agents at any given time. The president's personal quarters have some level of privacy, but not complete secrecy. The article suggests that the president can take advantage of the private quarters to have an affair, but it would still be difficult to keep it completely secret.\n\nThe article outlines four possible scenarios for a presidential affair, each with its own level of risk and difficulty in keeping it secret. However, it's clear that keeping the affair completely secret is not possible, as there are always some people who would know about it.\n\nGiven this information, I would guess that the correct answer is:\n\nC"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_8",
+      "generated_text": "To answer this question, let's break it down step by step:\n\n1. The President wants to \"entertain\" someone, not his wife, at Camp David.\n2. The article suggests that the President invites a group of friends and staffers, including his paramour, to spend the weekend at Camp David.\n3. The article states that the girlfriend is assigned the cabin next to the President's lodge.\n4. The Secret Service command post is outside the cabin, and the agents on duty let her enter.\n5. The article mentions that the risks of this approach include the possibility that the guest list is not public, but all the Navy and Marine personnel at Camp David, as well as the other guests, would know that the presidential entourage included an attractive woman, but not the first lady.\n\nBased on these steps, the correct answer is:\n\nA"
+    },
+    {
+      "question_id": "20007_5OCOFL2D_9",
+      "generated_text": "To determine the most \"foolproof\" plan for the President to carry on an affair, let's analyze each option step by step:\n\nA. Making sure to pay off anyone involved or sees any indiscretions is not foolproof because it doesn't prevent the risk of leaks, blackmail, or the person involved deciding to reveal the affair.\n\nB. Simply having an affair and forgetting about the cover-up is not foolproof because it leaves the President vulnerable to being discovered by the press, Secret Service agents, or others who may stumble upon the affair.\n\nC. Getting his wife's permission is not a feasible or realistic option for a President to carry on an affair without consequences, as it would be a public scandal and potentially damage the President's reputation and marriage.\n\nD. Having a conjoining room with an aid, having the woman go to the aid's room, then come through the conjoining door, and returning the same way is the most plausible option described in the article as \"The Hotel Shuffle\" scenario. This plan is designed to minimize the risk of discovery, as it uses the Secret Service's own security measures to keep the affair private.\n\n**D**"
+    }
+  ]
+}

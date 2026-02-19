@@ -1,0 +1,90 @@
+{
+  "model_name": "google/gemma-3-12b-it",
+  "article_id": "quality_60412",
+  "question_ids": [
+    "60412_XM0T4STT_1",
+    "60412_XM0T4STT_2",
+    "60412_XM0T4STT_3",
+    "60412_XM0T4STT_4",
+    "60412_XM0T4STT_5",
+    "60412_XM0T4STT_6",
+    "60412_XM0T4STT_7",
+    "60412_K8F7TZVE_1",
+    "60412_K8F7TZVE_2",
+    "60412_K8F7TZVE_3",
+    "60412_K8F7TZVE_4",
+    "60412_K8F7TZVE_5",
+    "60412_K8F7TZVE_6",
+    "60412_K8F7TZVE_7",
+    "60412_K8F7TZVE_8",
+    "60412_K8F7TZVE_9"
+  ],
+  "question_ids_hash": "57f60146282a168d",
+  "max_new_tokens": 2048,
+  "generations": [
+    {
+      "question_id": "60412_XM0T4STT_1",
+      "generated_text": "Let's analyze the provided text to determine when Earth earned its new title.\n\n*   **Option A:** The text states humans from Earth started giving medical care \"since the first formal Medical Service Contract had been signed.\" This doesn't represent a new title earned, but rather an ongoing practice.\n*   **Option B:** The text indicates Earth's unrivaled development in biological sciences was a contributing factor *to* the creation of Hospital Earth, but not the moment it earned the title.\n*   **Option C:** \"Galactic Pill Peddlers\" is a nickname for the General Practice Patrol crews. While descriptive, it wasn't an earned title for Earth itself.\n*   **Option D:** The text explicitly states Hospital Earth came into being *with* the formalization of the first Medical Service Contract with Deneb III. This signifies the earning of the \"Hospital Earth\" title.\n\nTherefore, the correct answer is D.\n\nD"
+    },
+    {
+      "question_id": "60412_XM0T4STT_2",
+      "generated_text": "Here's a step-by-step breakdown to determine the correct answer:\n\n1. **Identify the Key Information:** The passage states: \"Red Doctor Sam Jenkins\" and \"Green Doctor Wally Stone.\" We need to figure out what these colors signify.\n2. **Look for Explanations:** The text mentions \"the scarlet and green uniforms of their respective services.\" Later, it describes them as \"doctors of the Red and Green services, representing the ancient Earthly arts of medicine and surgery.\"\n3. **Match the Colors to Roles:** This suggests the colors differentiate between types of medical practice.\n4. **Determine the Correct Answer:** Jenkins is Red and associated with medicine and surgery, while Stone is Green and also associated with medicine and surgery. However, Jenkins is described as a surgeon at one point. Stone is a surgeon as well.\n\nB."
+    },
+    {
+      "question_id": "60412_XM0T4STT_3",
+      "generated_text": "Let's analyze the text to find the answer. The passage explicitly states: \"Seems the folks on Morua II didn't want a Contract with Hospital Earth. And they're still in the jungle, as far as their medicine goes. Witch doctors and spells.\"\n\nThe passage then reveals that five previous attempts to establish a Contract failed, and the last Earth ship was attacked. It mentions, \"Somebody's cracked the Contract Code or something,\" and later states, \"Somebody in that last crew spilled the beans before they shot him.\"\n\nTherefore, the code was obtained from a crew member before they were killed.\n\nC"
+    },
+    {
+      "question_id": "60412_XM0T4STT_4",
+      "generated_text": "Let's analyze the text to determine what was in the IV drip.\n\nThe text states: \"First off, get rid of those things.\" (referring to the braziers). Then, \"He handed him the liter flask. 'Hold it high.' He began searching for a vein on the patient\u2019s baggy arm. The Moruan equivalent of blood flowed back greenishly in the tube for an instant as he placed the needle; then the flask began to drip slowly.\" Later it mentions \"two large bunsen burners... into this he poured some water and a few crystals from a dark bottle.\" The text also mentions \u201cI knew that His Eminence could assimilate carbohydrates, and I took a long gamble that an antipyretic wouldn\u2019t hurt him too much.\u201d This suggests a mixture of water and carbohydrates (like sugar) and possibly an antipyretic (fever reducer, such as aspirin).\n\nConsidering the context, glucose (sugar/carbohydrates) aligns with the described treatment. Aspirin is an antipyretic.\n\nA. glucose\nB. aspirin solution\nC. viremia drugs\nD. antibiotic\n\nA"
+    },
+    {
+      "question_id": "60412_XM0T4STT_5",
+      "generated_text": "Let's analyze the text to determine what the doctor administered through the feeding tube. The passage states, \"Next he pulled two large bunsen burners and a gas tank from the bag. These he set up at the foot of the bed, adjusting the blue flames to high spear-tips. On the bedside table he set up a third with a flask above it; into this he poured some water and a few crystals from a dark bottle. In a moment the fluid in the flask was churning and boiling, an ominous purple color.\" It continues, \u201cThen he stepped back to view the scene, wiping cold perspiration from his forehead. He motioned to Kiz. \u2018You see what I\u2019m doing, of course?\u2019 he said loudly enough for Aguar and the guards to hear.\u201d The following lines describe a rapid intravenous injection, and then states, \"Jenkins motioned to Kiz. 'Now!' said Jenkins, pulling out a long thin rubber tube. He popped the tube into the patient\u2019s mouth. His Eminence rose up with a gasp, choking and fighting, but the tube went down. The Red Doctor ground three white pills into powder, mixed in some water, and poured it down the tube.\" Based on this, the doctor administered pills mixed with water through the feeding tube. The pills were \"white,\" and the text does not suggest it was a placebo. While water was used to mix the pills, the primary active ingredient seems to have been the pills themselves, not simply water or sugar water. Aspirin is a likely candidate among the listed choices given that he gave him \u201cwhite pills.\u201d\n\nD"
+    },
+    {
+      "question_id": "60412_XM0T4STT_6",
+      "generated_text": "Let's analyze the passage to determine why the Earth doctor used the mortar and pestle.\n\nThe passage states: \"Jenkins motioned to Kiz. 'His pulse\u2014quickly!' ... Jenkins administered more of the white powder in water down the tube\u2026 Then he stepped back to view the scene, wiped more sweat from his forehead. Quite suddenly His Eminence opened bleary eyes... Jenkins snatched the mortar from Kiz, and with a wild flourish smashed it on the stone floor.\" This implies he was using it to grind something, which was then administered to the patient. The white powder mentioned suggests medication. He also instructed Kiz to continue the \"plinking\" on the mortar, suggesting a rhythmic action related to the preparation.\n\nNow let's look at the options:\nA. To help the local doctor understand the treatment \u2013 While Jenkins was explaining things, the mortar/pestle wasn't primarily for teaching.\nB. To keep the IV drip going \u2013 The mortar and pestle has nothing to do with IV drips.\nC. To prepare medication \u2013 This aligns with the passage\u2019s descriptions of grinding powder and administering it.\nD. As part of the bio-survey \u2013 The bio-survey involved other processes, not grinding medication.\n\nTherefore, the mortar and pestle were used to prepare medication.\n\nC"
+    },
+    {
+      "question_id": "60412_XM0T4STT_7",
+      "generated_text": "The text states, \"I pulled two large bunsen burners and a gas tank from the bag. These he set up at the foot of the bed, adjusting the blue flames to high spear-tips. On the bedside table he set up a third with a flask above it; into this he poured some water and a few crystals from a dark bottle. In a moment the fluid in the flask was churning and boiling, an ominous purple color. Next he pulled two large bunsen burners and a gas tank from the bag.\" Then, later, \u201cI told you about the iron needles, didn't I? Hold this a moment.\u201d Jenkins handed him the liter flask. \u201cHold it high.\" Then \"I administered more of the white powder in water down the tube.\"\nThe white powder refers to aspirin. The doctor administered the white powder twice, once initially and then \"more\" later. Thus, the answer is 2.\n\nB"
+    },
+    {
+      "question_id": "60412_K8F7TZVE_1",
+      "generated_text": "Let's analyze each option:\n\n*   **A. Learning about his ailment so they could cure it elsewhere in the galaxy:** While understanding the ailment was important, it wasn't the *highest* priority given the urgency and the hostile environment.\n*   **B. Sparing their own lives:** This was certainly a concern, given the Moruans' aggressive behavior, but the narrative emphasizes their commitment to their duty despite the danger.\n*   **C. Fulfilling their hippocratic oath to do no harm to His Eminence:** This aligns well with the doctors' profession and the immediate situation \u2013 they were brought in to heal, even though they lacked proper resources.\n*   **D. Convincing His Eminence to sign a contract with Hospital Earth:** While a contract was eventually secured, it was a consequence of the treatment, not the primary goal during the initial crisis.\n\nThe most immediate and central focus was to treat the patient and fulfill their medical duty.\n\nC"
+    },
+    {
+      "question_id": "60412_K8F7TZVE_2",
+      "generated_text": "The text states: \"...doctors of the Red and Green services, representing the ancient Earthly arts of medicine and surgery\u2014\" It doesn't explicitly mention their specialties. However, the colors red and green are often associated with blood and respiratory systems, respectively. Of the options provided, A (Blood, Brain) and D (Blood, Respiratory) seem most plausible. Considering the historical context and common associations, Blood and Respiratory align better with the service colors.\n\nD"
+    },
+    {
+      "question_id": "60412_K8F7TZVE_3",
+      "generated_text": "The story explicitly mentions visits to Morua II and references Deneb III as the location where the first Medical Service Contract was signed, establishing Hospital Earth. The Lancet is the name of their ship, not a planet.\n\nD"
+    },
+    {
+      "question_id": "60412_K8F7TZVE_4",
+      "generated_text": "Let's analyze the text to determine the risk associated with receiving services from Hospital Earth without a contract:\n\n*   **A. Hospital Earth may come to collect collateral for their services, which has been known to start war:** The text mentions a fee, but doesn't indicate any aggressive collection practices or collateral leading to war.\n*   **B. The physicians are known to be brutal and sometimes kill patients from planets that aren\u2019t under contract:** The story portrays the physicians as generally helpful, not brutal or murderous.\n*   **C. The cost may be extremely expensive for emergency services outside of the contract, taking centuries to repay:** While there is a fee, the text doesn't describe the cost as exorbitant or leading to centuries of repayment.\n*   **D. Their biology is not understood well, and mistakes can be made:** The story emphasizes the danger of treating patients without proper biological surveys. Jenkins explicitly states he was \"hamstrung\" without a survey and warns of the potential for harm, referencing the Baron incident where an antibiotic wiped out a population.\n\nTherefore, the correct answer is D.\n\nD"
+    },
+    {
+      "question_id": "60412_K8F7TZVE_5",
+      "generated_text": "Let's analyze the story to determine how many people die.\n\nThe story explicitly states that the Tenth Son of a Tenth Son is very sick and likely to die from the Pox. While he ultimately recovers due to the doctors' intervention, his condition was life-threatening. There is no mention of anyone else dying during the events of the story.\n\nTherefore, it's implied that the Tenth Son was nearing death, making the answer B.\n\nB"
+    },
+    {
+      "question_id": "60412_K8F7TZVE_6",
+      "generated_text": "The story states that \"Into all known corners of the galaxy ships of the General Practice Patrol were dispatched\u2014'Galactic Pill Peddlers' forging a chain of Contracts from Aldebaran to Zarn...\" This implies a significant number of planets. It also mentions Deneb III as the first formalized contract, and the existence of other planets that declined the contracts. Therefore, a large number are involved.\n\nD"
+    },
+    {
+      "question_id": "60412_K8F7TZVE_7",
+      "generated_text": "Let's analyze the text to determine which treatments were administered to His Eminence.\n\nThe text mentions the following treatments:\n1. Brewing witches' root (poured over his belly)\n2. Beating him (with rawhide)\n3. Intravenous fluids (drip-drip-drip)\n4. Pouring a liquid down a tube (mixed with water, presumably oral)\n5. Lighting bunsen burners\n6. Pounding a mortar and pestle (more for ceremony/distraction than direct treatment)\n\nBased on this, option B (Intravenous fluids, oral medicine) is the closest and most accurate description.\n\nB"
+    },
+    {
+      "question_id": "60412_K8F7TZVE_8",
+      "generated_text": "Let's analyze the provided text to determine how Earth became the \"hospital planet.\"\n\n*   **A. Earth had the most liquid water...** The text doesn't mention anything about water being crucial to Earth's medical prominence.\n*   **B. Earth was the site of a previous wartime hospital...** There's no mention of wartime or hospitals preceding the formal establishment of Hospital Earth.\n*   **C. As interplanetary transit developed, planets specialized...** This aligns perfectly with the text. It explains that as planets developed different strengths (technology, communications, production), Earth specialized in biological sciences and, consequently, medical services. The text specifically states, \"in any growing civilization division of labor inevitably occurs,\" and that Earth stood \"unrivaled in its development of the biological sciences.\"\n*   **D. Earth\u2019s atmosphere has a unique ability...** This is not described in the text.\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "60412_K8F7TZVE_9",
+      "generated_text": "Let's break down the story to understand the significance of Morua II's Class VI designation.\n\n*   **Initial Reaction:** When the doctors receive the call, the Class VI designation doesn't immediately register as important.\n*   **Later Revelation:** It's later revealed that Class VI planets are \"plague spots\" and that previous attempts to establish a Contract with Morua II were met with violence and rejection.\n*   **The Paradox:** The fact that a Class VI planet, which *shouldn't* have a Contract, is sending a crash-priority call is what creates the central conflict. It suggests the situation is unusual and potentially dangerous.\n*   **Contract Importance:** The story stresses the importance of Contracts with Hospital Earth and how they are rarely broken, even in risky situations. The fact that Morua II isn\u2019t under contract adds to the mystery and tension of why they received the call.\n\nGiven these points, the correct answer is:\n\nA"
+    }
+  ]
+}

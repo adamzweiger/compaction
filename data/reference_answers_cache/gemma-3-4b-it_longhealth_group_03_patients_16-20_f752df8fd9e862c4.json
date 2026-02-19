@@ -1,0 +1,510 @@
+{
+  "model_name": "google/gemma-3-4b-it",
+  "article_id": "longhealth_group_03_patients_16-20",
+  "question_ids": [
+    "patient_16_q0",
+    "patient_16_q1",
+    "patient_16_q2",
+    "patient_16_q3",
+    "patient_16_q4",
+    "patient_16_q5",
+    "patient_16_q6",
+    "patient_16_q7",
+    "patient_16_q8",
+    "patient_16_q9",
+    "patient_16_q10",
+    "patient_16_q11",
+    "patient_16_q12",
+    "patient_16_q13",
+    "patient_16_q14",
+    "patient_16_q15",
+    "patient_16_q16",
+    "patient_16_q17",
+    "patient_16_q18",
+    "patient_16_q19",
+    "patient_17_q0",
+    "patient_17_q1",
+    "patient_17_q2",
+    "patient_17_q3",
+    "patient_17_q4",
+    "patient_17_q5",
+    "patient_17_q6",
+    "patient_17_q7",
+    "patient_17_q8",
+    "patient_17_q9",
+    "patient_17_q10",
+    "patient_17_q11",
+    "patient_17_q12",
+    "patient_17_q13",
+    "patient_17_q14",
+    "patient_17_q15",
+    "patient_17_q16",
+    "patient_17_q17",
+    "patient_17_q18",
+    "patient_17_q19",
+    "patient_18_q0",
+    "patient_18_q1",
+    "patient_18_q2",
+    "patient_18_q3",
+    "patient_18_q4",
+    "patient_18_q5",
+    "patient_18_q6",
+    "patient_18_q7",
+    "patient_18_q8",
+    "patient_18_q9",
+    "patient_18_q10",
+    "patient_18_q11",
+    "patient_18_q12",
+    "patient_18_q13",
+    "patient_18_q14",
+    "patient_18_q15",
+    "patient_18_q16",
+    "patient_18_q17",
+    "patient_18_q18",
+    "patient_18_q19",
+    "patient_19_q0",
+    "patient_19_q1",
+    "patient_19_q2",
+    "patient_19_q3",
+    "patient_19_q4",
+    "patient_19_q5",
+    "patient_19_q6",
+    "patient_19_q7",
+    "patient_19_q8",
+    "patient_19_q9",
+    "patient_19_q10",
+    "patient_19_q11",
+    "patient_19_q12",
+    "patient_19_q13",
+    "patient_19_q14",
+    "patient_19_q15",
+    "patient_19_q16",
+    "patient_19_q17",
+    "patient_19_q18",
+    "patient_19_q19",
+    "patient_20_q0",
+    "patient_20_q1",
+    "patient_20_q2",
+    "patient_20_q3",
+    "patient_20_q4",
+    "patient_20_q5",
+    "patient_20_q6",
+    "patient_20_q7",
+    "patient_20_q8",
+    "patient_20_q9",
+    "patient_20_q10",
+    "patient_20_q11",
+    "patient_20_q12",
+    "patient_20_q13",
+    "patient_20_q14",
+    "patient_20_q15",
+    "patient_20_q16",
+    "patient_20_q17",
+    "patient_20_q18",
+    "patient_20_q19"
+  ],
+  "question_ids_hash": "f752df8fd9e862c4",
+  "max_new_tokens": 2048,
+  "generations": [
+    {
+      "question_id": "patient_16_q0",
+      "generated_text": "Let's analyze the provided text. The text states that Mr. Chapman was admitted due to a \"motocross accident, where he jumped, fell, and landed face-first.\" This clearly describes the cause of his admission.\n\nA"
+    },
+    {
+      "question_id": "patient_16_q1",
+      "generated_text": "Let's analyze the provided text regarding Mr. Chapman's medical history.\n\nThe text lists several prior conditions:\n*   Rib fracture (2005)\n*   Appendectomy (2006)\n*   Distal radius fracture (2008)\n*   Elbow fracture (2010)\n\nDiabetes Mellitus is not mentioned in the provided text.\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_16_q2",
+      "generated_text": "The text states: \u201cUpon admission, we encountered an intubated and sedated patient with a Richmond Agitation-Sedation Scale (RASS) score of -4.\u201d\n\n**B**"
+    },
+    {
+      "question_id": "patient_16_q3",
+      "generated_text": "Let\u2019s analyze the provided text. The patient, John Chapman, presented with a severe open traumatic brain injury, dissection of carotid arteries, and subarachnoid hemorrhage. During his stay from 04/03/2017 to 05/01/2017, blood cultures identified:\n\n*   Staphylococcus capitis\n*   Staphylococcus aureus\n*   Enterobacter cloacae\n\nConsidering the options provided:\n\n*   A. E. coli \u2013 Not mentioned\n*   B. Pseudomonas aeruginosa \u2013 Not mentioned\n*   C. Staphylococcus capitis \u2013 Explicitly identified\n*   D. Streptococcus pneumoniae \u2013 Not mentioned\n*   E. Klebsiella pneumoniae \u2013 Not mentioned\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_16_q4",
+      "generated_text": "Let's analyze the provided text to determine the date of Mr. Chapman's ventriculoperitoneal shunt placement.\n\nThe text mentions \"Ventriculoperitoneal drain (EVD) placement on 04/03/2017\". Later, it states \"04/13/2017: Surgical tracheostomy\" and \u201c05/01/2017: Left ventriculoperitoneal shunt placement\u201d.\n\nTherefore, the correct answer is D.\n\nD"
+    },
+    {
+      "question_id": "patient_16_q5",
+      "generated_text": "Let\u2019s analyze the provided text to determine the main complication identified in Mr. Chapman\u2019s chest X-ray on 04/24/2017.\n\nThe text states: \u201cChest X-ray\u2026Persistent consolidations in the right lower lobe and retrocardially on the left\u2026\u201d. Consolidation indicates an area of the lung filled with fluid or other material, which is a radiographic sign of pneumonia or infection. While the text mentions infiltrates, it doesn\u2019t specify the nature or severity of the infiltrates.\n\nNow let\u2019s consider the options:\n\n*   **A. Pneumothorax:** A collapsed lung due to air leaking into the space between the lung and chest wall. The text does not mention this.\n*   **B. Pleural effusion:** Fluid accumulation in the space between the lung and chest wall. The text doesn\u2019t explicitly state this, although it mentions consolidation which can be associated with effusion.\n*   **C. Infiltrates:** This is a general term for any area of increased density on a chest X-ray, which can be caused by various things, including pneumonia, fluid, or blood. This aligns with the text\u2019s description of \u201cpersistent consolidations\u201d.\n*   **D. Atelectasis:** Collapsed lung tissue. The text doesn't provide enough information to confirm this.\n*   **E. Cardiomegaly:** Enlarged heart. The text does not describe any cardiac abnormalities.\n\nConsidering the available information, the most accurate answer is the presence of consolidations.\n\nC"
+    },
+    {
+      "question_id": "patient_16_q6",
+      "generated_text": "Let\u2019s analyze the provided text to identify the antibiotic Mr. Chapman was *not* prescribed.\n\nThe text details a lengthy ICU stay with several antibiotic courses:\n\n*   **Piperacillin/Tazobactam:** Used initially, then escalated to Meropenem.\n*   **Meropenem:** Replaced Piperacillin/Tazobactam.\n*   **Ciprofloxacin:** Used later in the course.\n*   **Aspirin:** Prescribed for carotid dissection.\n*   **Vancomycin:** Not mentioned in the text at all.\n\nTherefore, the correct answer is E.\n\nE"
+    },
+    {
+      "question_id": "patient_16_q7",
+      "generated_text": "Let\u2019s analyze the provided text to find the correct answer. The text mentions the patient received an external ventricular drain (EVD) placement initially. Later, it states \u201cLeft ventriculoperitoneal shunt placement (programmable)\u201d. The text then describes the initial pressure setting of the shunt as \u201c5/25 cm H2O\u201d.\n\n**C**"
+    },
+    {
+      "question_id": "patient_16_q8",
+      "generated_text": "Let's analyze the provided text to find the date of the Doppler ultrasound. The text states: \"Following the arterial puncture, a Doppler ultrasound was performed...on 05/26/2016.\"\n\n**B**"
+    },
+    {
+      "question_id": "patient_16_q9",
+      "generated_text": "Let\u2019s analyze the provided text to determine the reason for the angiography performed on Mr. Chapman. The text states: \u201cWe are reporting on our mutual patient, Mr. John Chapman, born on 11/16/1994, who was under our inpatient care from 05/25/2019 to 05/26/2019. **Diagnoses:** Pseudoaneurysm of the left ICA\u2026\u201d\n\nTherefore, the indication for the angiography was a pseudoaneurysm of the left internal carotid artery.\n\nA"
+    },
+    {
+      "question_id": "patient_16_q10",
+      "generated_text": "Let\u2019s analyze the provided text to find the date of the cerebral digital subtraction angiography.\n\nThe text discusses several events related to Mr. Chapman\u2019s care. We are looking for the date of the angiography.\n\n*   **08/08/2018** is mentioned as the date of his initial presentation.\n*   **05/25/2019** is the date he was admitted for the angiography.\n*   **07/04/2017** is the date of his initial trauma.\n*   **05/04/2017** is a date mentioned in the text.\n\nBased on this information, the cerebral digital subtraction angiography was performed on 05/25/2019.\n\n**E**"
+    },
+    {
+      "question_id": "patient_16_q11",
+      "generated_text": "Let's analyze the provided text to find Mr. Chapman's hemoglobin level upon last discharge.\n\nThe text contains several reports about Mr. Chapman, spanning multiple dates. We need to find the most recent discharge report. The final text entry, dated 09/21/2021, mentions his hemoglobin level as 7.6 g/dL.\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_16_q12",
+      "generated_text": "Let\u2019s analyze the provided patient information to determine which medication was *not* part of Mr. Chapman\u2019s regimen post-transfer.\n\nThe text details a complex medical history including severe trauma, multiple surgeries, and ongoing treatment. We need to identify the medication that isn\u2019t listed as being administered.\n\nLooking at the medication list provided:\n*   Bisoprolol \u2013 Shown as part of his regimen.\n*   Diazepam \u2013 Shown as part of his regimen.\n*   Ciprofloxacin \u2013 Shown as part of his regimen.\n*   Meropenem \u2013 Shown as part of his regimen.\n*   Aspirin \u2013 Shown as part of his regimen.\n\nTherefore, the answer is that Diazepam was not part of his regimen post-transfer.\n\nB"
+    },
+    {
+      "question_id": "patient_16_q13",
+      "generated_text": "Let's analyze the provided text about Mr. Chapman's case. The text details a complex polytrauma case following a motocross accident. Key findings include:\n\n*   Severe open traumatic brain injury with fractures.\n*   Dissection of carotid arteries.\n*   Subarachnoid hemorrhage.\n*   Placement of an external ventricular drain (EVD).\n\nThe CT Head scan on 04/21/2017 revealed: \u201cProgressive edema with increasingly obstructed external ventricular spaces and previously known infarcts in the border zone area.\u201d This strongly points to malresorptive hydrocephalus, a condition where the brain's ability to absorb cerebrospinal fluid is impaired, leading to fluid buildup and swelling.\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_16_q14",
+      "generated_text": "Let\u2019s analyze the provided text to find the answer.\n\nThe text states: \u201cFinally, microbiological examination of cerebrospinal fluid, blood cultures, and urine revealed no pathological findings. Infection parameters decreased. Infection course: Upon admission, with elevated infection parameters and intermittently febrile temperatures, empirical antibiotic therapy was initiated for suspected pneumonia using Piperacillin/Tazobactam.\u201d\n\nPiperacillin/Tazobactam is a broad-spectrum antibiotic often used to treat suspected bacterial infections, including ventriculitis.\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_16_q15",
+      "generated_text": "Let's analyze the provided text snippets to find the creatinine level upon Mr. Chapman's discharge from the outpatient clinic in 2018.\n\nHere's a breakdown of the relevant information:\n\n*   **Text 6** (dated 04/12/2018) states: \u201cLab results upon Discharge: Parameter Creatinine (Jaff\u00e9) Results 0.82 mg/dL Reference Range 0.70-1.20 mg/dL\u201d.\n\nTherefore, the creatinine level upon discharge was 0.82 mg/dL. The closest answer choice is 0.84 mg/dL (option D).\n\nD"
+    },
+    {
+      "question_id": "patient_16_q16",
+      "generated_text": "Let's analyze the provided text to determine the sedative used during Mr. Chapman\u2019s weaning process. The text states: \u201cCurrently, Mr. Chapman is monosedated with Clonidine.\u201d\n\n**B**"
+    },
+    {
+      "question_id": "patient_16_q17",
+      "generated_text": "Let's analyze the provided text to determine which complication Mr. Chapman did *not* experience.\n\nThe text lists the following complications:\n\n*   Severe open traumatic brain injury with fractures\n*   Dissection of the distal internal carotid artery\n*   Subarachnoid hemorrhage\n*   Aspiration pneumonia\n*   Rhabdomyolysis\n*   Status post rib fracture\n*   Status post appendectomy\n*   Status post distal radius fracture\n*   Status post elbow fracture\n*   External ventricular drain placement\n*   Malresorptive hydrocephalus\n*   Infarct areas in the MCA-ACA border zones\n\nThe question asks which complication he *did not* experience. Scanning the list, we see all the other options are mentioned.\n\n**A**"
+    },
+    {
+      "question_id": "patient_16_q18",
+      "generated_text": "Let\u2019s analyze the provided text to determine the correct answer. The text contains laboratory results from multiple dates, spanning 2016-2023. We need to focus on the comparison between 2018 and 2019.\n\nLooking at the provided text, specifically the sections related to laboratory results from 2018 and 2019, we can assess each option:\n\n*   **A. The creatinine level normalized from a previously low value to within the reference range.** The text states that creatinine levels were consistently low throughout the period. While it doesn\u2019t explicitly state normalization, it doesn't show a decrease to within the range.\n\n*   **B. Hemoglobin levels decreased further outside the reference range.** The text reports that his hemoglobin was 11.6 g/dL on 03/02/2017 and 13.1 g/dL on 04/12/2021. There is no indication that hemoglobin decreased in 2019.\n\n*   **C. White blood cell count showed a significant increase from 2018 to 2019.** The text doesn't provide a direct comparison of WBC counts between those two years.\n\n*   **D. Platelet count remained consistently above the reference range in both years.** The platelet count has fluctuating values. We do not have enough data to confirm that it remained consistently above the reference range.\n\n*   **E. The patient\u2019s RDW-CV (Red Cell Distribution Width-Coefficient of Variation) levels decreased from 2018 to 2019.** The text states that on 03/04/2017, his RDW-CV was 14.8% and on 04/14/2020 his RDW-CV was 13.7%. The RDW-CV levels decreased from 2018 to 2019.\n\nTherefore, the correct answer is E.\n\nE"
+    },
+    {
+      "question_id": "patient_16_q19",
+      "generated_text": "Okay, let's break down the chronological order of the radiological studies based on the provided text:\n\n1.  **CT Head:** Initially performed in the emergency department.\n2.  **Bedside Chest X-ray:** Performed shortly after the initial CT Head.\n3.  **Supra-aortic Angiography:** Performed to evaluate the carotid artery dissection.\n4.  **CT Head Angiography with Perfusion:** Performed following the Supra-aortic Angiography.\n5.  **MRI of the Head:** Performed later, presumably to provide more detailed imaging of the brain.\n6.  **Dppler ultrasound of the right groin:** Performed after the supra-aortic angiography.\n7.  **Full-Body CT:** Performed later to assess for additional injuries.\n\nConsidering these timings, the correct order is:\n\n**D**"
+    },
+    {
+      "question_id": "patient_17_q0",
+      "generated_text": "Let\u2019s analyze the provided text. The text indicates that Mr. Carter was admitted to the facility on 09/28/2021 due to suspected respiratory issues. This is the initial presentation date.\n\nB"
+    },
+    {
+      "question_id": "patient_17_q1",
+      "generated_text": "Let's analyze the provided text to find the answer. The text mentions several medications Mr. Carter was taking upon admission, including:\n\n*   Prednisone\n*   Methotrexate\n*   Candesartan\n*   Montelukast\n*   Desloratadine\n\nThe question specifically asks about medication for bronchial asthma. Montelukast is a leukotriene receptor antagonist, a common medication used to treat asthma. The other medications listed are not primarily used for asthma.\n\nC. Montelukast"
+    },
+    {
+      "question_id": "patient_17_q2",
+      "generated_text": "Let's analyze the provided text to determine the duration of antifungal therapy recommended for Mr. Carter.\n\nThe text states that antifungal therapy (Voriconazole) was initiated \"after the detection of Aspergillus\" and that it was intended to continue for \u201cat least 4-6 weeks.\u201d\n\nTherefore, the correct answer is B.\n\nB"
+    },
+    {
+      "question_id": "patient_17_q3",
+      "generated_text": "Let\u2019s analyze the provided text to determine the therapy initiated on 09/30/2021. The text states: \u201cDue to oxygenation impairment with an increase in respiratory rate, and a clinical suspicion of atypical pneumonia, NIV therapy was initiated\u2026\u201d. It then mentions \u201cempirical antibiotic therapy with Piperacillin/Tazobactam, Clarithromycin, and Cotrimoxazole\u201d was started.\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_17_q4",
+      "generated_text": "Let's analyze the text provided. We are looking for Mr. Carter's hemoglobin level at his last discharge.\n\nThe text includes a section labeled \"Lab results upon Discharge.\" Within that section, we find the following hemoglobin value: \"Hemoglobin 13.1 g/dL\".\n\nTherefore, the correct answer is 13.1 g/dL, which corresponds to option B.\n\nB"
+    },
+    {
+      "question_id": "patient_17_q5",
+      "generated_text": "Let\u2019s analyze the text to find the answer. The text states: \u201cAntibiotic therapy with Piperacillin/Tazobactam was escalated to Meropenem on 10/05/2021.\u201d\n\nA. Piperacillin/Tazobactam \u2013 This is the antibiotic that was initially used and then escalated to another.\nB. Cefazolin \u2013 Not mentioned in the text.\nC. Dexamethasone \u2013 This is a corticosteroid, not an antibiotic.\nD. Voriconazole \u2013 This is an antifungal medication.\nE. Flucloxacillin \u2013 Not mentioned in the text.\n\nTherefore, the correct answer is A.\n\nA"
+    },
+    {
+      "question_id": "patient_17_q6",
+      "generated_text": "Let's analyze the provided text. The text states: \u201cTSH: 3.56 mU/L\u201d. The reference range for TSH is typically 0.27-4.20 mU/L. Since 3.56 mU/L falls below this range, it is considered subtherapeutic.\n\nD"
+    },
+    {
+      "question_id": "patient_17_q7",
+      "generated_text": "Let\u2019s analyze the provided text to identify the parameter that showed a normalization trend but remained below the reference range.\n\nThe text describes Mr. Carter\u2019s lab results, including Hemoglobin levels. We can see that in the first report (03/04/2021), his Hemoglobin levels were below the reference range. However, in subsequent reports (09/19/2021 and 02/18/2022), Hemoglobin levels showed an improvement and moved closer to the normal range, but still remained below. The other options don\u2019t show such a clear trend of improvement while still being below the reference range.\n\nC"
+    },
+    {
+      "question_id": "patient_17_q8",
+      "generated_text": "Let's analyze the provided text to determine the correct answer. The text states: \"Due to oxygenation impairment, the patient was intubated and ventilated. Subsequently, the patient received a shift from Dexamethasone to Prednisolone.\"\n\nTherefore, Prednisolone was discontinued and replaced with Dexamethasone.\n\n**B**"
+    },
+    {
+      "question_id": "patient_17_q9",
+      "generated_text": "Let\u2019s analyze the text provided. The text states: \u201cFollowing the conservative ARDS therapy, 9 prone positions were utilized, 16 hours each.\u201d\n\n**B**"
+    },
+    {
+      "question_id": "patient_17_q10",
+      "generated_text": "The text states: \u201cWe are reporting on Mr. Brian Carter, born on 04/24/1956, Diagnosis: ARDS. His arterial blood gas analysis revealed an oxygenation disorder with a paO2 of 50 mmHg.\u201d\n\nA. 50 mmHg\nB. 78 mmHg\nC. 87 mmHg\nD. 125 mmHg\nE. Not specified\n\n**A**"
+    },
+    {
+      "question_id": "patient_17_q11",
+      "generated_text": "Let's analyze the provided patient information to determine the reason for initiating Methotrexate.\n\nThe patient\u2019s medical history includes \u201cRheumatoid arthritis,\u201d \u201cUveitis,\u201d and \u201cDepression.\u201d However, the most relevant information is the documented diagnosis of \u201cSuspected inflammatory/dilated cardiomyopathy\u201d and the subsequent diagnosis of \u201cRheumatoid arthritis\u201d following the cardiac catheterization. The text explicitly states that the rheumatology team recommended methotrexate due to Rheumatoid Arthritis.\n\nTherefore, the correct answer is:\n\nD"
+    },
+    {
+      "question_id": "patient_17_q12",
+      "generated_text": "Let's analyze the provided text (patient_17) to identify the \"Other Diagnoses\" listed. The text explicitly mentions the following:\n\n*   Uveitis\n*   Depression\n*   Bronchial asthma\n*   Arterial hypertension\n\nPulmonary embolism is not mentioned in the patient\u2019s listed diagnoses.\n\n**D**"
+    },
+    {
+      "question_id": "patient_17_q13",
+      "generated_text": "Let\u2019s analyze the provided text to determine the nature of the \u201cecho-free cystic structure\u201d found on the ultrasound abdomen. The text states: \u201cA cystic structure was noted in the right lower lobe. It was described as \u2018echo-free\u2019 \u2013 meaning it did not reflect sound waves \u2013 and had a \u2018slightly lobulated contour.\u2019 The assessment concluded that it was most likely a congenital cyst.\u201d\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_17_q14",
+      "generated_text": "Let\u2019s analyze the provided text to determine the medication added after Mr. Carter\u2019s admission.\n\nThe text details his medications upon admission (Captopril, Ramipril, Carvedilol, Torasemide, Spironolactone, L-Thyroxine, Omeprazole, Aspirin). The subsequent text describes a discharge with the addition of \u201cBudesonide\u201d for the suspected CVID-associated enteropathy. This medication is not listed among the initial medications.\n\nTherefore, the correct answer is Budesonide, which is not one of the given options. However, since the closest option is Singulair, a leukotriene receptor antagonist, it is a plausible, though incorrect, choice among the provided options.\n\nC"
+    },
+    {
+      "question_id": "patient_17_q15",
+      "generated_text": "Let\u2019s analyze the provided text. The echocardiogram report states \u201cMorphologically, slight tapering of the baffles up to 13 mm, RPA 14 mm,\u201d indicating findings related to the right side of the heart. Further down, it mentions \u201cmild tricuspid valve prolapse with minor regurgitation jet.\u201d The report also details findings regarding the right ventricle, specifically \u201cright ventricular systolic function with only minimal ejection above the aortic valve.\u201d This clearly points to the right ventricle.\n\nB"
+    },
+    {
+      "question_id": "patient_17_q16",
+      "generated_text": "Let\u2019s analyze the provided text to identify the significant change in Mr. Carter\u2019s thorax imaging on 10/16/2021.\n\nThe text states: \u201cChest X-ray in two planes on 10/20/2021: \u2026 Progression of infiltrates in the right lower lobe and retrocardially on the left\u2026\u201d. This clearly indicates a worsening of the existing infiltrates. The text does not mention any changes related to the heart, catheter placement, cavitation, or pleural effusion.\n\nC"
+    },
+    {
+      "question_id": "patient_17_q17",
+      "generated_text": "Let's analyze the provided reports to determine the initial intubation period for Mr. Carter.\n\nThe first report mentions that he was admitted on 09/28/2021 and intubated on 09/30/2021. The second report states that he was extubated on 10/13/2021. Therefore, the initial intubation period lasted from 09/30/2021 to 10/13/2021.\n\n**C**"
+    },
+    {
+      "question_id": "patient_17_q18",
+      "generated_text": "Let\u2019s analyze the provided patient data to determine the correct answer.\n\nMr. Carter\u2019s medical history indicates a previous diagnosis of ARDS (Acute Respiratory Distress Syndrome) and concerns about chronic liver congestion and possible hepatopathy. We need to identify a change in his blood profile between November 2021 and February 2022 that points toward an improvement in hepatic function.\n\n*   **A. Increase in Hemoglobin from 11.6 g/dL to 15.8 g/dL:** Hemoglobin levels relate to red blood cell count and oxygen-carrying capacity. While an increase is positive, it doesn\u2019t directly reflect liver function.\n*   **B. Decrease in Gamma-GT from 200 U/L to 38 U/L:** Gamma-glutamyl transferase (GGT) is an enzyme primarily found in the liver and is an indicator of liver damage. A decrease suggests improvement in liver function.\n*   **C. Increase in Sodium from 138 mEq/L to 139 mEq/L:** Sodium levels are related to electrolyte balance and are not directly indicative of liver function.\n*   **D. Decrease in Creatinine from 0.61 mg/dL to 0.99 mg/dL:** Creatinine is a waste product filtered by the kidneys. A decrease indicates improved kidney function, not liver function.\n*   **E. Increase in White Blood Cells from 9.56 K/\u00b5L to 7.62 K/\u00b5L:** White blood cell count relates to the immune system and isn\u2019t specifically tied to liver function.\n\nConsidering the provided information, a decrease in GGT suggests a positive change in liver health.\n\nB"
+    },
+    {
+      "question_id": "patient_17_q19",
+      "generated_text": "Okay, let's break down the chronological order of the radiological imaging studies for Mr. Brian Carter based on the provided text:\n\n1.  **Chest X-ray bedside:** This is mentioned repeatedly throughout the reports, appearing several times.\n2.  **CT chest:** A CT scan was performed.\n3.  **Abdominal ultrasound:** This was performed later in the patient\u2019s hospitalization.\n\nConsidering this sequence, let\u2019s evaluate the options:\n\n*   **A:** Incorrect \u2013 CT chest is not first.\n*   **B:** Incorrect - Chest X-ray is not first.\n*   **C:** Incorrect - Chest X-ray is not first.\n*   **D:** Incorrect - The order doesn\u2019t make sense.\n*   **E:** Correct \u2013 This option accurately reflects the order: CT chest, followed by repeated chest X-rays, and then the abdominal ultrasound.\n\n**E**"
+    },
+    {
+      "question_id": "patient_18_q0",
+      "generated_text": "Let's analyze the provided text. The text states: \u201cCardiac MRI on 03/02/2023: [Clinical Information, Question, Justification:]{.underline} Left Ventricle: \u2026 LVEF: 29 %\u201d.\n\nTherefore, Mr. Romero\u2019s left ventricular ejection fraction (LVEF) was 29%.\n\nB"
+    },
+    {
+      "question_id": "patient_18_q1",
+      "generated_text": "Let's analyze the provided text to identify the date of the myocardial biopsy. The text describes several updates regarding Mr. Romero\u2019s condition. We are looking for the date when the biopsy was performed and revealed the positive detection of HCV-specific RNA.\n\nScanning the text, we find the following relevant information:\n\n*   \u201cCardiac MRI on 03/02/2016\u201d \u2013 This indicates the biopsy was performed around this time.\n\nTherefore, the correct answer is B.\n\nB"
+    },
+    {
+      "question_id": "patient_18_q2",
+      "generated_text": "Let\u2019s analyze the provided text snippets to determine the correct dosage of Ramipril prescribed for Mr. Romero.\n\nThe text describes Mr. Romero\u2019s medical history and treatment progression. We\u2019re looking for the dosage listed on his discharge medication list.\n\nLooking through the provided text, the medication list for his discharge on 04/14/2021 includes \u201cCurrent Medication: Ramipril (Altace) 2.5 mg 1-0-1\u201d which indicates a dose of 2.5 mg once daily.\n\nTherefore, the correct answer is A.\n\nA"
+    },
+    {
+      "question_id": "patient_18_q3",
+      "generated_text": "Let's analyze the text to find the answer. The text states: \u201cMild tricuspid valve insufficiency\u2026\u201d.\n\nD. Mitral valve\n\nD"
+    },
+    {
+      "question_id": "patient_18_q4",
+      "generated_text": "Let's analyze the lab results provided for Mr. Romero.\n\n*   **March 2016:** Sodium (141 mEq/L), Potassium (4.2 mEq/L), Creatinine (0.84 mg/dL), Urea (26 mg/dL).\n*   **June 2016:** Sodium (141 mEq/L), Potassium (4.1 mEq/L), Creatinine (0.85 mg/dL), Urea (27 mg/dL).\n\nComparing the two sets of results, the creatinine level increased from 0.84 mg/dL to 0.85 mg/dL \u2013 a slight increase, but still above the upper limit of the normal range. Urea increased from 26 mg/dL to 27 mg/dL. While both markers showed an increase, the creatinine increase was more significant in terms of exceeding the normal range.\n\n**C**"
+    },
+    {
+      "question_id": "patient_18_q5",
+      "generated_text": "Let's analyze the provided text to find the date of the CRT-ICD implantation.\n\nThe text mentions: \"\u2026the patient was admitted for a planned Fontan procedure on 07/02/2021. The procedure was performed without complications\u2026\".  However, there is a later update on 04/12/2021 and 09/19/2021, which state that the procedure occurred in 2021. The date of the implantation, as stated in the 04/12/2021 update is 04/07/2021.\n\nTherefore, the correct answer is A.\n\nA"
+    },
+    {
+      "question_id": "patient_18_q6",
+      "generated_text": "Let's analyze the provided text regarding the myocardial biopsy findings on 01/27/2014. The text states: \u201cMyocardial biopsy showed no inflammation, no evidence of acute or chronic T-cell activation, no significant fibrosis, and no lipomatosis.\u201d It further elaborates that \u201cMorphologically, slight hypertrophy of the cardiomyocytes, the surrounding capillaries are unremarkable.\u201d\n\nConsidering these findings, the most accurate description of the biopsy results is that there was \u201cno significant myocardial damage.\u201d\n\nC"
+    },
+    {
+      "question_id": "patient_18_q7",
+      "generated_text": "Let's analyze the provided text:\n\nThe text states: \"During the stress test, the patient\u2019s blood pressure increased from 112/80 mmHg to 175/90 mmHg.\"\n\nTherefore, the correct answer is E.\n\nE"
+    },
+    {
+      "question_id": "patient_18_q8",
+      "generated_text": "Let's analyze the provided text to determine the medication added after the angiography. The text states: \u201cFollowing the angiography, we recommended\u2026 increasing Ramipril\u201d.\n\n**A. Ramipril** \u2013 This is explicitly stated as a recommendation.\n**B. Aspirin** \u2013 Aspirin was already part of his regimen.\n**C. Ranolazine** \u2013 Not mentioned.\n**D. Spironolactone** \u2013 Not mentioned.\n**E. Carvedilol** \u2013 Not mentioned.\n\nTherefore, the correct answer is A.\n\nA"
+    },
+    {
+      "question_id": "patient_18_q9",
+      "generated_text": "Let's analyze the provided text snippets to determine the new diagnosis added to Mr. Romero\u2019s medical history as of 05/04/2016.\n\nThe text describes his condition as \u201cSuspected CVID-Associated enteropathy.\u201d This indicates a diagnosis related to his underlying CVID (Common Variable Immunodeficiency Syndrome). Therefore, the answer is the diagnosis related to the enteropathy, which is a digestive issue. The document indicates he was given a \u201cBudesonide\u201d medication to treat the enteropathy.\n\n**C**"
+    },
+    {
+      "question_id": "patient_18_q10",
+      "generated_text": "Let's analyze each option based on the provided text:\n\n*   **A. Positive HCV-mRNA detection in myocardial tissue:** The text states \u201cAn examination of the myocardial tissue showed a positive detection of HCV-mRNA.\u201d This is a confirmed finding.\n*   **B. No evidence of myocardial infection with enteroviruses:** The text explicitly states \u201cNo evidence of myocardial infection with enteroviruses.\u201d This is a confirmed finding.\n*   **C. Immunohistochemically examined native preparations showed CD3-positive lymphocytes:** The text says \u201cImmunohistochemically examined native preparations showed CD3-positive lymphocytes.\u201d This is a confirmed finding.\n*   **D. No increased perforin-positive cytotoxic T cells:** The text mentions \u201cNo evidence of increased perforin-positive cytotoxic T cells.\u201d This indicates a lack of this specific immune response.\n*   **E. Evidence of acute inflammation-associated myocardial cell necrosis:** The text states \u201cNo evidence of acute inflammation-associated myocardial cell necrosis.\u201d This is a confirmed finding.\n\nTherefore, the answer is D.\n\nD"
+    },
+    {
+      "question_id": "patient_18_q11",
+      "generated_text": "Let's analyze the provided text. The text states: \"ECG on 06/30/2016: Sinus rhythm, heart rate 76/min\". Therefore, the heart rate reported was 76 bpm.\n\nD. 65 bpm is incorrect.\nA. 69 bpm is incorrect.\nB. 71 bpm is incorrect.\nC. 124 bpm is incorrect.\nE. 102 bpm is incorrect.\n\n**C**"
+    },
+    {
+      "question_id": "patient_18_q12",
+      "generated_text": "The provided text states: \"During the stress test, the patient achieved a maximum workload of 150 watts.\"\n\nC"
+    },
+    {
+      "question_id": "patient_18_q13",
+      "generated_text": "Let\u2019s analyze the provided text about Mr. Romero\u2019s ECG discharge report. The text states: \u201cECG on 05/21/2023: Sinus rhythm, heart rate 76/min, steep type, PQ interval 140 ms, QRS duration 126 ms, QT interval 340 ms\u2026\u201d\n\nTherefore, the QRS duration was 126 ms.\n\nB"
+    },
+    {
+      "question_id": "patient_18_q14",
+      "generated_text": "Let's analyze the provided text. The text states: \"Current Presentation: Mr. Sanders was admitted for further evaluation of suspected CVID-associated enteropathy, as she had been experiencing chronic diarrhea for the past three years. On admission, the patient reported an overall good general and nutritional condition. She described her current subjective well-being as good but mentioned having chronic diarrhea for the past three years, with up to 7 bowel movements per day. The stools were watery without any signs of blood. There were no indications of infection, such as fever, chills, dysuria, hematuria, cough, sputum, or dyspnea. ... On the day of admission, an esophagogastroduodenoscopy was performed, which revealed erythematous antral gastritis. Additionally, there was an approximately 1 cm irregular mucosal area at the corpus-antrum junction on the greater curvature side. A magnetic resonance imaging scan showed no evidence of inflamed bowel loops, ruling out chronic inflammatory bowel disease or celiac disease. ...  Blood pressure (mmHg): Right upper arm 143/84 mmHg\".\n\n**B**"
+    },
+    {
+      "question_id": "patient_18_q15",
+      "generated_text": "Let's analyze the provided text.\n\nThe text states:\n- On 06/15/2016, the left ventricular ejection fraction (LVEF) was 29%.\n- On 06/30/2016, the left ventricular ejection fraction (LVEF) was 28%.\n\nThe change is a decrease from 29% to 28%.\n\n**C**"
+    },
+    {
+      "question_id": "patient_18_q16",
+      "generated_text": "Let's analyze the provided text (patient_18) to identify the abnormal lab value from the date 09/29/2023.\n\nThe text describes David Romero\u2019s clinical course, including a recent admission on 03/29/2023. The information about the 09/29/2023 lab results is summarized as follows:\n\n- CRP is elevated.\n- Transaminase elevation\n- BNP elevated.\n\nAmong the options, C-reactive protein (CRP) is explicitly mentioned as elevated. Therefore, CRP is the abnormal lab parameter.\n\nB"
+    },
+    {
+      "question_id": "patient_18_q17",
+      "generated_text": "Let's analyze the provided text regarding David Romero's lab results. The text indicates that in March 2016, his TSH levels were within the normal range. In June 2016, the lab results showed a TSH level of 3.56 mIU/L (within the normal range of 0.27-4.20 mIU/L). There is no information about T4 or T3 levels.\n\nGiven this information, the thyroid function is normal.\n\nC"
+    },
+    {
+      "question_id": "patient_18_q18",
+      "generated_text": "Okay, let's analyze Mr. Romero's medication history to determine which drug experienced a change in dosing frequency between March 2016 and May 2023.\n\n*   **March 2016:**\n    *   Captopril: 2 mg, 1-1-1\n    *   Carvedilol: 0.2 mg, 1-0-1\n    *   Aspirin: 10 mg, 1-0-0\n    *   Ramipril: 2.5 mg, 1-0-1\n    *   Torasemide: 5 mg, 1-0-0\n    *   Spironolactone: 10 mg, 1-0-0\n    *   L-Thyroxine: 50 mcg, 1-0-0\n\n*   **May 2023:**\n    *   Captopril: 2 mg, 1-1-1\n    *   Carvedilol: 0.2 mg, 1-0-1\n    *   Aspirin: 25 mg, 1-0-0\n    *   Ramipril: 5 mg, 1-0-0\n    *   Torasemide: 5 mg, 0-0-0.5-0\n    *   Spironolactone: 25 mg, 1-0-0\n    *   L-Thyroxine: 50 mcg, 1-0-0\n\nComparing the medication lists, we see that Torasemide changed from a frequency of \u201c1-0-0\u201d (once daily) to \u201c0-0-0.5-0\u201d (half a dose, twice daily) between March and May 2016.\n\n**B**"
+    },
+    {
+      "question_id": "patient_18_q19",
+      "generated_text": "Let's analyze the chronological order of the imaging studies based on the provided text:\n\n1.  **Chest X-ray:** Initial examination \u2013 mentioned first in several entries.\n2.  **Chest X-ray in two planes:** Followed the initial chest x-ray.\n3.  **Echocardiography:** Repeatedly performed throughout the patient\u2019s care (M-mode and 2D, multiple times).\n4.  **Carotid Doppler Ultrasound:** Performed as part of a broader assessment.\n5.  **Myocardial Perfuson Scintigraphy:** Ordered to evaluate heart function.\n6.  **Cardiac Catheterization:** Performed to assess coronary arteries.\n7.  **Angiography**\n8.  **Transthoracic Echocardiography**: Performed after cardiac catheterization.\n\nConsidering this sequence, option B is the most accurate.\n\n**B**"
+    },
+    {
+      "question_id": "patient_19_q0",
+      "generated_text": "The patient\u2019s diagnosis is explicitly stated as \u201cHypoplastic Left Heart Syndrome.\u201d This condition refers to a congenital heart defect where the left side of the heart is underdeveloped.\n\nC"
+    },
+    {
+      "question_id": "patient_19_q1",
+      "generated_text": "Let's analyze the patient's medical history and the provided diagnoses. The patient has Hypoplastic Left Heart Syndrome (HLHS), which is a complex congenital heart defect. The medical notes detail several procedures performed: a Damus-Kaye-Stansel Procedure (for creating a connection between the aorta and pulmonary artery), and a Fontan Procedure (to connect the inferior vena cava to the pulmonary artery). The Glenn procedure is a later stage procedure. The Ross procedure is a valve replacement.\n\nBased on this information, the most appropriate answer is the Damus-Kaye-Stansel procedure.\n\nB"
+    },
+    {
+      "question_id": "patient_19_q2",
+      "generated_text": "Let's analyze the provided text. The question asks about Mr. Nilsson's weight at discharge on 02/02/2005. The text states: \u201cCurrent weight: 4765 g\u201d.\n\nB"
+    },
+    {
+      "question_id": "patient_19_q3",
+      "generated_text": "Let\u2019s analyze the provided text. The text describes Emil Nilsson\u2019s medical history and several echocardiography findings. We need to identify the finding reported in January 2006.\n\nThe text states: \u201cCardiac MRI on 03/02/2018: \u2026Mild tricuspid valve prolapse with minor regurgitation jet.\u201d\n\nTherefore, the correct answer is E.\n\nE"
+    },
+    {
+      "question_id": "patient_19_q4",
+      "generated_text": "Let's analyze the provided text to determine the condition observed in Mr. Nilsson\u2019s liver. The text states: \u201cHistology revealed mild acute hepatitis and nodular regenerative hyperplasia. This finding could be consistent with changes in CVID-associated hepatopathy.\u201d\n\nAcute hepatitis is inflammation of the liver. Nodular regenerative hyperplasia is a benign liver condition, often associated with CVID. The overall description indicates a change in the liver consistent with CVID. The text states that \u201cthere were multiple liver lesions, showing mild to moderately hyperintense signals in T2-weighted images and hypointense signals in T1-weighted images\u201d, indicative of congestion.\n\nTherefore, the most accurate description of the liver condition is chronic liver congestion.\n\nC"
+    },
+    {
+      "question_id": "patient_19_q5",
+      "generated_text": "Let's analyze the provided text. The text states: \u201cCardiac status: Rhythmic heart action, 2/6 systolic murmur auscultated on the left parasternal side.\u201d\n\nTherefore, the correct answer is A.\n\nA."
+    },
+    {
+      "question_id": "patient_19_q6",
+      "generated_text": "Let's analyze the provided text regarding Emil Nilsson's ECG on July 2nd, 2008. The text states: \"ECG on 07/02/2008: Sinus rhythm, heart rate 79/min, steep type, PQ interval 140 ms, QRS duration 110 ms, QT interval 340 ms, QTc 385 ms. ST depression, descending in V2+V3. T-wave positivity from V2.\"\n\nThis clearly describes ST depression in V2 and V3, alongside T-wave positivity originating from V2. The other parameters (PQ interval, QRS duration, QT interval, and QTc) are also mentioned, but the key findings are the ST depression and T-wave changes.\n\nGiven these observations, the best answer is B.\n\n**B**"
+    },
+    {
+      "question_id": "patient_19_q7",
+      "generated_text": "Let\u2019s analyze the provided text. The text mentions Emil Nilsson\u2019s weight as 47 kg and height as 169 cm on 03/04/2021. It does not provide any further updates on his weight or height. Therefore, the weight and height information from December 2021 is not available from the provided text. However, the most recent information available is for March 2021.\n\nC"
+    },
+    {
+      "question_id": "patient_19_q8",
+      "generated_text": "Let's analyze the provided text. We need to find Mr. Nilsson's oxygen saturation level in January 2005. The text mentions that on 03/04/2017, his oxygen saturation was 95%. The document also states that the patient presented on 01/15/2018. We need to find the reading from the text referring to January 2005. In the document, it\u2019s mentioned that on 03/02/2017, the patient had a capsule endoscopy. Therefore, the reading referring to 01/15/2018 is the accurate one, which was 76%.\n\nB"
+    },
+    {
+      "question_id": "patient_19_q9",
+      "generated_text": "Let's analyze the provided text to find the total dose of contrast agent used during Mr. Nilsson's cardiac catheterization. The text states: \"\u2026 angiography with 5.50 min / 298.00 cGy\\*cm\u00b2 \u2026\u201d.  The volume of contrast agent used was 5.50 min / 298.00 cGy\\*cm\u00b2. The contrast agent used was Iomeron 350. The total volume of contrast agent used was 5.50 ml * 350 mg/ml = 1925 ml. However, the provided answer choices contain values in milliliters. It specifically mentions \u201c105 ml Iomeron 350\u201d.\n\nD"
+    },
+    {
+      "question_id": "patient_19_q10",
+      "generated_text": "Let\u2019s analyze the provided text. The text states: \u201cCardiac MRI: Morphologically, slight tapering between the LPA and the anastomosis with essentially balanced flow between the LPA and RPA.\u201d This indicates that the aortic valve, specifically the connection between the pulmonary artery and aorta (the anastomosis), is narrowed (tapering). This is a form of atresia (closure) of the valve.\n\nTherefore, the correct answer is C.\n\nC"
+    },
+    {
+      "question_id": "patient_19_q11",
+      "generated_text": "Let\u2019s analyze the patient\u2019s history to determine the reason for increasing Captopril. The patient has a history of Hypoplastic Left Heart Syndrome (HLHS), a Glenn procedure (which creates a connection between the pulmonary artery and aorta), and has been diagnosed with CVID. The notes indicate a concern about fluid retention and possible hepatosplenomegaly, and an increase in transaminases. The recent update mentioned increased BNP levels which may indicate fluid overload. While the note doesn\u2019t explicitly state the reason, the combination of elevated liver enzymes and BNP suggests worsening congestive heart failure. Captopril is an ACE inhibitor used to treat heart failure.\n\n**A**"
+    },
+    {
+      "question_id": "patient_19_q12",
+      "generated_text": "Let's analyze the provided text regarding Mr. Emil Nilsson's ECG findings on 11/20/2021. The text states: \"ECG on 11/20/2021: Sinus rhythm, heart rate 79/min, steep type, PQ interval 140 ms, QRS duration 110 ms, QT interval 340 ms, QTc 385 ms. ST depression, descending in V2+V3. T-wave positivity from V2.\u201d\n\nThe key findings are:\n\n*   **Steep type:** This is a descriptive term indicating a specific waveform shape.\n*   **PQ interval:** Prolonged (140 ms)\n*   **QRS duration:** Prolonged (110 ms)\n*   **QTc interval:** Prolonged (385 ms)\n*   **ST depression:** Indicates myocardial ischemia or injury.\n*   **T-wave positivity:** Suggests a possible conduction abnormality.\n\nGiven these findings, particularly the prolonged PQ and QRS intervals, combined with ST depression, an intraventricular conduction disorder is the most likely explanation. The other options are not supported by the provided text.\n\nE"
+    },
+    {
+      "question_id": "patient_19_q13",
+      "generated_text": "Let\u2019s analyze the provided text regarding Emil Nilsson\u2019s medication history.\n\nThe text states that on 01/20/2023, he was taking Captopril 2 mg once daily. On 02/18/2021, it was noted that he was still taking Captopril 2 mg once daily.\nThe text doesn't give information about any changes in dosage from 01/20/2023 to 02/18/2021.\n\nTherefore, the correct answer is:\n\nC"
+    },
+    {
+      "question_id": "patient_19_q14",
+      "generated_text": "Let\u2019s analyze the text to find the answer. The text states: \u201cCurrently, ongoing diarrhea. Iron-deficiency anemia was confirmed, and the patient had already scheduled an outpatient appointment for iron substitution.\u201d Therefore, the medication added was iron supplementation.\n\nA"
+    },
+    {
+      "question_id": "patient_19_q15",
+      "generated_text": "Let\u2019s analyze the provided text snippets to track Emil Nilsson\u2019s Aspirin dosage changes.\n\n*   **2005 (Text 1):** The medication list shows Aspirin at 100 mg, 1-0-0.\n*   **2008 (Text 5):** The medication list shows Aspirin at 25 mg, 1-0-0.\n\nTherefore, the dosage increased from 10 mg to 25 mg.\n\n**A**"
+    },
+    {
+      "question_id": "patient_19_q16",
+      "generated_text": "Let's analyze the provided text snippets to determine the history of Spironolactone use in Emil Nilsson.\n\n*   **2016 (March):** The text states that Spironolactone was part of the medication regimen, with a dosage of 2mg once daily.\n*   **2016 (October):** The text indicates that the patient was experiencing increasing diarrhea and an elevated transaminase level and that Spironolactone was initiated at a dose of 25mg once daily.\n*   **2017 (February):** The text mentions the continued use of Spironolactone at 2mg once daily.\n*   **2017 (April):** Continued use of 2mg once daily.\n*   **2017 (October):** The patient presented with increasing symptoms. The dose of Spironolactone was changed to 25mg once daily.\n*   **2018 (February):** Continued use of Spironolactone at 2mg once daily.\n\nBased on this timeline, the frequency of Spironolactone increased from 2mg once daily in early 2016 to 25mg once daily in October 2016 and then remained at 2mg once daily after that.\n\nTherefore, the correct answer is B.\n\nB"
+    },
+    {
+      "question_id": "patient_19_q17",
+      "generated_text": "Let's analyze the provided text to determine Mr. Nilsson's calcium levels over time.\n\n1.  **Initial Examination (March 2017):** The text indicates that \"Calcium levels were unremarkable.\"\n\n2.  **Later Examination (April 2020):** The text states \"Calciumion levels were noticeably low.\u201d\n\n3.  **Final Examination (April 2021):** The text reveals \"Serum calcium levels were still elevated,\u201d indicating continued hypocalcemia.\n\nGiven this progression, the calcium levels were lower in April 2021 compared to March 2017.\n\n**D**"
+    },
+    {
+      "question_id": "patient_19_q18",
+      "generated_text": "Let's analyze the provided text. The patient's medical history indicates that Gamma-GT levels were measured on 04/14/2020. There is no reference to measurement in March 2008.\n\n**B**"
+    },
+    {
+      "question_id": "patient_19_q19",
+      "generated_text": "Let\u2019s analyze the chronological order of the imaging examinations described in the provided text:\n\n1.  **Echocardiography:** This was performed multiple times \u2013 initially, then again after the initial presentation and further examination, and then at the end of the hospital stay.\n2.  **Chest X-ray:** Performed to assess lung health.\n3.  **Cardiac Catheterization:** Performed to evaluate cardiac function and structure.\n4.  **Abdominal Ultrasound:** Performed to assess the liver and other abdominal organs.\n5.  **Cardiac MRI:** Performed for more detailed imaging of the heart and surrounding structures.\n6. **ECG:** Performed to assess heart rhythm.\n7. **Capsule Endoscopy:** Performed to evaluate the stomach and small intestine.\n\nConsidering this sequence, option **C** best reflects the chronological order of the examinations mentioned.\n\nC"
+    },
+    {
+      "question_id": "patient_20_q0",
+      "generated_text": "Let\u2019s analyze the provided text to determine which immunoglobulin class Mrs. Sanders had a complete deficiency in. The text explicitly states: \u201cComplete IgG deficiency,\u201d \u201cComplete IgM deficiency,\u201d and \u201cComplete IgA deficiency.\u201d This means that all three of these immunoglobulin classes were entirely absent. Since the question asks for *which* immunoglobulin class is deficient, and all three are listed, we must choose one. IgG is the first mentioned deficiency.\n\nC"
+    },
+    {
+      "question_id": "patient_20_q1",
+      "generated_text": "Let's analyze the provided text. The patient's history states that she experienced recurrent respiratory infections \u201cfor about 3 years\u201d as of 2016.\n\nC"
+    },
+    {
+      "question_id": "patient_20_q2",
+      "generated_text": "Let\u2019s analyze the provided patient notes. The notes repeatedly mention \u201csubcutaneous immunoglobulin substitution therapy with human immunoglobulin,\u201d which is explicitly referred to as \u201cHizentra 20%.\u201d While intravenous immunoglobulin is a type of immunoglobulin therapy, Hizentra is a specific brand. The notes detail the initiation and ongoing use of Hizentra. The other options (corticosteroids, antibiotics, antihypertensives) are not specifically mentioned as being initiated for Mrs. Sanders\u2019 condition.\n\nA"
+    },
+    {
+      "question_id": "patient_20_q3",
+      "generated_text": "Let\u2019s analyze the provided text. We are looking for Mrs. Sanders\u2019 sodium level from the lab results in October 2017. The text states: \u201cSodium: 141 mEq/L\u201d.\n\nD"
+    },
+    {
+      "question_id": "patient_20_q4",
+      "generated_text": "Let\u2019s analyze the text to find the answer. The text states: \u201cDue to a moderate increase in transaminases and evidence of hepatosplenomegaly, we decided, after detailed explanation and with the patient\u2019s consent, to perform a sonographically guided liver biopsy in addition to the planned endoscopy. The differential diagnosis included CVID-associated hepatopathy. The biopsy was successfully conducted, without any post-interventional bleeding.\u201d It further details that the patient reported \u201cskin hardening at the injection sites.\u201d This suggests a reaction to the subcutaneous immunoglobulin injections. Slower infusion times are often used to mitigate local reactions.\n\nA. Slower infusion time \u2013 This aligns with the reported skin hardening and is a common approach to address injection site reactions.\nB. Change in medication \u2013 The text does not indicate a change in medication was discussed.\nC. Oral steroids \u2013 There's no mention of steroids being considered.\nD. Antihistamines \u2013 While antihistamines might help with some symptoms, the primary issue is the hardening skin, which benefits from a slower injection.\nE. Antibiotics \u2013 Antibiotics are for infections, not skin reactions.\n\n**A**"
+    },
+    {
+      "question_id": "patient_20_q5",
+      "generated_text": "Let's analyze the provided text regarding Mrs. Sanders' abdominal ultrasound findings from 03/04/2017. The text states: \"Multiple enlarged retroperitoneal and iliac lymph nodes, likely related to the underlying condition.\u201d This directly describes retroperitoneal lymphadenopathy. The other options are not mentioned in the text.\n\nA\nB\nC\nD\nE\n\nA"
+    },
+    {
+      "question_id": "patient_20_q6",
+      "generated_text": "Let's analyze the provided text to determine Mrs. Sanders' primary complaint in 2016.\n\nThe text details her medical history and progression. Initially, she presented with \u201csuspected previously undiagnosed immunodeficiency.\u201d Subsequent notes mention \u201cfrequent respiratory infections,\u201d \u201cabdominal pain,\u201d and \u201cchronic diarrhea.\u201d While the other options are mentioned, the text highlights \u201cchronic diarrhea\u201d as a significant and ongoing concern. The other symptoms are related to the underlying immunodeficiency.\n\nB"
+    },
+    {
+      "question_id": "patient_20_q7",
+      "generated_text": "Let\u2019s analyze the text to determine the correct answer. The text states: \u201cCurrently, subcutaneous immunoglobulin therapy with Hizentra 20% (subcutaneous) was continued.\u201d The text also mentions gastrointestinal issues, including chronic diarrhea. Despite these issues, the subcutaneous immunoglobulin therapy was maintained.\n\nC"
+    },
+    {
+      "question_id": "patient_20_q8",
+      "generated_text": "Let\u2019s analyze the provided text to determine the correct answer. The text states: \u201cHistology revealed mild acute hepatitis and nodular regenerative hyperplasia.\u201d\n\nTherefore, the correct answer is B.\n\nB"
+    },
+    {
+      "question_id": "patient_20_q9",
+      "generated_text": "Let's analyze the provided text. The text states: \"\u2026 a capsule endoscopy was performed, with results pending at the time of discharge. \u2026 Approximately 1 cm irregular mucosal area at the corpus-antrum junction on the greater curvature side. Streaky redness of the mucosa in the antrum.\u201d This clearly indicates an abnormal finding\u2014an irregular mucosal area and redness\u2014suggesting inflammation. While it doesn't pinpoint a specific diagnosis, \u201cinflammatory changes\u201d are the most accurate description of the findings.\n\nD"
+    },
+    {
+      "question_id": "patient_20_q10",
+      "generated_text": "Let\u2019s analyze the provided text to identify the significant finding noted in Mrs. Sanders\u2019 CT scan in 2021.\n\nThe text states: \u201cChest X-ray or chest CT: in case of abnormal clinical presentation or pulmonary function, a CT scan was performed. [Findings]{.underline} Streaky-reticular changes observed. Multiple nodular consolidations and opacities detected in the lower basal lung segments, measuring up to 4mm in size in the right lateral lower lobe.\u201d\n\nThis clearly describes the significant finding \u2013 multiple nodular consolidations and streaky-reticular changes in the lower basal lung segments.\n\nTherefore, the correct answer is B.\n\nB"
+    },
+    {
+      "question_id": "patient_20_q11",
+      "generated_text": "Let's analyze the provided text. The text states: \u201cLab results upon Discharge: **Parameter**                    **Results**   **Reference Range**\n**Immunoglobulin G**                        **188 mg/dL**        **700-1600 mg/dL**\u201d\n\nTherefore, Mrs. Sanders\u2019 serum Immunoglobulin G levels upon her discharge in October 2017 were 188 mg/dL.\n\nB"
+    },
+    {
+      "question_id": "patient_20_q12",
+      "generated_text": "Let's analyze the provided text regarding Mrs. Sanders' lab results from October 2017.\n\nThe text states: \"\u2026 elevated s-IL-2. \u2026 Normal s-IL-2\u2026 High \u00df-2-Microglobulin\u2026 Normal CRP\u2026\u201d. The last sentence says \u201cCRP is not elevated.\u201d\n\nTherefore, the answer is E.\n\nE"
+    },
+    {
+      "question_id": "patient_20_q13",
+      "generated_text": "Let\u2019s analyze the provided text. The text states: \u201cDuring the EGD performed on 04/01/2023, visualized up to the descending part of the duodenum. Unremarkable upper esophageal sphincter. Normal motility and mucosa in the upper, middle, and distal esophagus. The Z-line is sharply demarcated in the hiatus. The cardia closes sufficiently. The stomach expands normally in all parts under air insufflation. Multiple glandular cysts < 8 mm in size in the fundus and corpus. Approximately 1 cm irregular mucosal area at the corpus-antrum junction on the greater curvature side. Streaky redness of the mucosa in the antrum.\u201d\n\nThis clearly describes erythematous antral gastritis and an irregular mucosal area near the corpus-antrum junction.\n\nB is the correct answer.\n\nB"
+    },
+    {
+      "question_id": "patient_20_q14",
+      "generated_text": "Let's analyze the provided text to determine the IgG level changes between 03/04/2017 and 10/06/2017.\n\nThe text states: \u201cOngoing subcutaneous immunoglobulin therapy with Hizentra 20% (2x20mL/week) has been well-tolerated. IgG levels remain within the target range.\u201d\n\nThis clearly indicates that the IgG levels were maintained at a target level during this period. Therefore, the IgG levels did not decrease significantly, increase significantly, or remain the same.\n\n**D**"
+    },
+    {
+      "question_id": "patient_20_q15",
+      "generated_text": "Let\u2019s analyze the provided text. We are looking for changes in Gamma-Globulin levels between 10/09/2016 and 03/04/2017.\n\nIn the 10/09/2016 report, the Gamma-Globulin level is listed as 1025 mg/dL.\nIn the 03/04/2017 report, the Gamma-Globulin level is listed as 188 mg/dL.\n\nSince 188 mg/dL is significantly lower than 1025 mg/dL, the Gamma-Globulin level decreased.\n\n**B**"
+    },
+    {
+      "question_id": "patient_20_q16",
+      "generated_text": "Let\u2019s analyze the provided text. The patient\u2019s lab results from 10/09/2016 show a \u00df-2-Microglobulin level of 3.6 mg/L. The lab results from 04/12/2017 show a \u00df-2-Microglobulin level of 0.95 mg/L. Since 0.95 mg/L is lower than 3.6 mg/L, the level decreased.\n\nB"
+    },
+    {
+      "question_id": "patient_20_q17",
+      "generated_text": "Let\u2019s analyze the provided text. We are looking for information about Mrs. Sanders\u2019 platelet counts on two different dates.\n\nThe text states: \u201cLab results upon Discharge: Platelets 142 K/uL\u201d. This refers to the lab results from 10/22/2021.\nThe text also states: \u201cLab results upon Discharge: Platelets 129 K/uL\u201d. This refers to the lab results from 04/14/2020.\n\nComparing the two values, 142 K/uL is higher than 129 K/uL. Therefore, her platelet count increased significantly.\n\nB"
+    },
+    {
+      "question_id": "patient_20_q18",
+      "generated_text": "Okay, let's break down the chronological order of the radiological imaging studies reported for Mrs. Sanders:\n\n1.  **Chest X-ray:** This was the initial imaging performed.\n2.  **Abdominal Ultrasound:** Performed shortly after the chest X-ray.\n3.  **CT Scan of Chest/Abdomen/Pelvis:** This was conducted after the ultrasound, likely to further investigate the findings from the previous scans.\n4.  **Abdominal MRI:** Performed to delve deeper into the liver findings.\n5.  **Gastrointestinal endoscopy and colonoscopy** The endoscopy was performed following the CT scans. \n\nTherefore, the correct order is Chest X-ray, Abdominal Ultrasound, CT Scan of Chest/Abdomen/Pelvis, Abdominal MRI, CT chest, and then finally, Abdominal Ultrasound.\n\n**D**"
+    },
+    {
+      "question_id": "patient_20_q19",
+      "generated_text": "Let\u2019s analyze the provided text about Mrs. Sanders\u2019 EGD report. The report states: \u201cApproximately 1 cm irregular mucosal area at the corpus-antrum junction on the greater curvature side.\u201d This description directly corresponds to option D. The other options are not mentioned in the text.\n\nD"
+    }
+  ]
+}
